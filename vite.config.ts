@@ -7,23 +7,23 @@ export default defineConfig(({ mode }) => {
   const siteOrigin = env.VITE_SITE_ORIGIN?.replace(/\/$/, '') ?? '';
 
   return {
-  plugins: [
-    react(),
-    tailwindcss(),
-    {
-      name: 'og-absolute-url',
-      transformIndexHtml(html) {
-        if (!siteOrigin) return html;
-        return html.replace(/content="\/og-image/g, `content="${siteOrigin}/og-image`);
+    plugins: [
+      react(),
+      tailwindcss(),
+      {
+        name: 'og-absolute-url',
+        transformIndexHtml(html) {
+          if (!siteOrigin) return html;
+          return html.replace(/content="\/og-image/g, `content="${siteOrigin}/og-image`);
+        },
+      },
+    ],
+    server: {
+      port: 5173,
+      open: true,
+      watch: {
+        ignored: ['**/public/optimized/**'],
       },
     },
-  ],
-  server: {
-    port: 5173,
-    open: true,
-    watch: {
-      ignored: ['**/public/optimized/**'],
-    },
-  },
-};
+  };
 });
