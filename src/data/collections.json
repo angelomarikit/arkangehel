@@ -1,0 +1,1981 @@
+{
+  "collections": [
+    {
+      "slug": "3rd-sunday-gampanin",
+      "title": "3rd Sunday Gampanin",
+      "count": 12,
+      "cover": {
+        "src": "/collections/3rd-sunday-gampanin/752642233_122245476410100475_6450043171828888665_n.jpg",
+        "thumb": "/optimized/3rd-sunday-gampanin/752642233_122245476410100475_6450043171828888665_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "742581215_122245476836100475_720809596989607774_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/742581215_122245476836100475_720809596989607774_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 436444,
+          "thumb": "/optimized/3rd-sunday-gampanin/742581215_122245476836100475_720809596989607774_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/742581215_122245476836100475_720809596989607774_n-w1200.webp"
+        },
+        {
+          "file": "744955373_122245476500100475_7730644262694388321_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/744955373_122245476500100475_7730644262694388321_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 391958,
+          "thumb": "/optimized/3rd-sunday-gampanin/744955373_122245476500100475_7730644262694388321_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/744955373_122245476500100475_7730644262694388321_n-w1200.webp"
+        },
+        {
+          "file": "748597795_122245476926100475_6468388176722534450_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/748597795_122245476926100475_6468388176722534450_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 409503,
+          "thumb": "/optimized/3rd-sunday-gampanin/748597795_122245476926100475_6468388176722534450_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/748597795_122245476926100475_6468388176722534450_n-w1200.webp"
+        },
+        {
+          "file": "749440718_122245476638100475_7537787046683697898_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/749440718_122245476638100475_7537787046683697898_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 520747,
+          "thumb": "/optimized/3rd-sunday-gampanin/749440718_122245476638100475_7537787046683697898_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/749440718_122245476638100475_7537787046683697898_n-w1200.webp"
+        },
+        {
+          "file": "749440720_122245476596100475_4536146396293563977_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/749440720_122245476596100475_4536146396293563977_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 430551,
+          "thumb": "/optimized/3rd-sunday-gampanin/749440720_122245476596100475_4536146396293563977_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/749440720_122245476596100475_4536146396293563977_n-w1200.webp"
+        },
+        {
+          "file": "749665296_122245476884100475_8097910243680310826_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/749665296_122245476884100475_8097910243680310826_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 334229,
+          "thumb": "/optimized/3rd-sunday-gampanin/749665296_122245476884100475_8097910243680310826_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/749665296_122245476884100475_8097910243680310826_n-w1200.webp"
+        },
+        {
+          "file": "749681104_122245476740100475_3090115475426158945_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/749681104_122245476740100475_3090115475426158945_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 418531,
+          "thumb": "/optimized/3rd-sunday-gampanin/749681104_122245476740100475_3090115475426158945_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/749681104_122245476740100475_3090115475426158945_n-w1200.webp"
+        },
+        {
+          "file": "749714038_122245476692100475_4427911369162874094_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/749714038_122245476692100475_4427911369162874094_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 480118,
+          "thumb": "/optimized/3rd-sunday-gampanin/749714038_122245476692100475_4427911369162874094_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/749714038_122245476692100475_4427911369162874094_n-w1200.webp"
+        },
+        {
+          "file": "751075964_122245476782100475_8961369378471159030_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/751075964_122245476782100475_8961369378471159030_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 470691,
+          "thumb": "/optimized/3rd-sunday-gampanin/751075964_122245476782100475_8961369378471159030_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/751075964_122245476782100475_8961369378471159030_n-w1200.webp"
+        },
+        {
+          "file": "752642233_122245476410100475_6450043171828888665_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/752642233_122245476410100475_6450043171828888665_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 424594,
+          "thumb": "/optimized/3rd-sunday-gampanin/752642233_122245476410100475_6450043171828888665_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/752642233_122245476410100475_6450043171828888665_n-w1200.webp"
+        },
+        {
+          "file": "752653234_122245476452100475_8426435349290881417_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/752653234_122245476452100475_8426435349290881417_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 525388,
+          "thumb": "/optimized/3rd-sunday-gampanin/752653234_122245476452100475_8426435349290881417_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/752653234_122245476452100475_8426435349290881417_n-w1200.webp"
+        },
+        {
+          "file": "753145756_122245476554100475_6383566863565545360_n.jpg",
+          "src": "/collections/3rd-sunday-gampanin/753145756_122245476554100475_6383566863565545360_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 388426,
+          "thumb": "/optimized/3rd-sunday-gampanin/753145756_122245476554100475_6383566863565545360_n-w480.webp",
+          "medium": "/optimized/3rd-sunday-gampanin/753145756_122245476554100475_6383566863565545360_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "7-last-words",
+      "title": "7 Last Words",
+      "count": 13,
+      "cover": {
+        "src": "/collections/7-last-words/662346849_122235384080100475_4333149220744678803_n.jpg",
+        "thumb": "/optimized/7-last-words/662346849_122235384080100475_4333149220744678803_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "661157497_122235383630100475_5397613805426700229_n.jpg",
+          "src": "/collections/7-last-words/661157497_122235383630100475_5397613805426700229_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 456068,
+          "thumb": "/optimized/7-last-words/661157497_122235383630100475_5397613805426700229_n-w480.webp",
+          "medium": "/optimized/7-last-words/661157497_122235383630100475_5397613805426700229_n-w1200.webp"
+        },
+        {
+          "file": "661210391_122235383546100475_7632081537512639981_n.jpg",
+          "src": "/collections/7-last-words/661210391_122235383546100475_7632081537512639981_n.jpg",
+          "width": 443,
+          "height": 590,
+          "orientation": "portrait",
+          "bytes": 67551,
+          "thumb": "/optimized/7-last-words/661210391_122235383546100475_7632081537512639981_n-w480.webp",
+          "medium": "/optimized/7-last-words/661210391_122235383546100475_7632081537512639981_n-w1200.webp"
+        },
+        {
+          "file": "661443384_122235383984100475_7413099432178252911_n.jpg",
+          "src": "/collections/7-last-words/661443384_122235383984100475_7413099432178252911_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 623256,
+          "thumb": "/optimized/7-last-words/661443384_122235383984100475_7413099432178252911_n-w480.webp",
+          "medium": "/optimized/7-last-words/661443384_122235383984100475_7413099432178252911_n-w1200.webp"
+        },
+        {
+          "file": "661750887_122235383882100475_7763106999240666453_n.jpg",
+          "src": "/collections/7-last-words/661750887_122235383882100475_7763106999240666453_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 662146,
+          "thumb": "/optimized/7-last-words/661750887_122235383882100475_7763106999240666453_n-w480.webp",
+          "medium": "/optimized/7-last-words/661750887_122235383882100475_7763106999240666453_n-w1200.webp"
+        },
+        {
+          "file": "661912688_122235383828100475_1792417351060457695_n.jpg",
+          "src": "/collections/7-last-words/661912688_122235383828100475_1792417351060457695_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 561958,
+          "thumb": "/optimized/7-last-words/661912688_122235383828100475_1792417351060457695_n-w480.webp",
+          "medium": "/optimized/7-last-words/661912688_122235383828100475_1792417351060457695_n-w1200.webp"
+        },
+        {
+          "file": "662070111_122235384038100475_6559182485081653950_n.jpg",
+          "src": "/collections/7-last-words/662070111_122235384038100475_6559182485081653950_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 583140,
+          "thumb": "/optimized/7-last-words/662070111_122235384038100475_6559182485081653950_n-w480.webp",
+          "medium": "/optimized/7-last-words/662070111_122235384038100475_6559182485081653950_n-w1200.webp"
+        },
+        {
+          "file": "662346849_122235384080100475_4333149220744678803_n.jpg",
+          "src": "/collections/7-last-words/662346849_122235384080100475_4333149220744678803_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 475798,
+          "thumb": "/optimized/7-last-words/662346849_122235384080100475_4333149220744678803_n-w480.webp",
+          "medium": "/optimized/7-last-words/662346849_122235384080100475_4333149220744678803_n-w1200.webp"
+        },
+        {
+          "file": "663055464_122235383930100475_3561042021605410817_n.jpg",
+          "src": "/collections/7-last-words/663055464_122235383930100475_3561042021605410817_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 421994,
+          "thumb": "/optimized/7-last-words/663055464_122235383930100475_3561042021605410817_n-w480.webp",
+          "medium": "/optimized/7-last-words/663055464_122235383930100475_3561042021605410817_n-w1200.webp"
+        },
+        {
+          "file": "663152677_122235383780100475_1503456537603244742_n.jpg",
+          "src": "/collections/7-last-words/663152677_122235383780100475_1503456537603244742_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 662939,
+          "thumb": "/optimized/7-last-words/663152677_122235383780100475_1503456537603244742_n-w480.webp",
+          "medium": "/optimized/7-last-words/663152677_122235383780100475_1503456537603244742_n-w1200.webp"
+        },
+        {
+          "file": "663368698_122235383738100475_3964302723964603622_n.jpg",
+          "src": "/collections/7-last-words/663368698_122235383738100475_3964302723964603622_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 596287,
+          "thumb": "/optimized/7-last-words/663368698_122235383738100475_3964302723964603622_n-w480.webp",
+          "medium": "/optimized/7-last-words/663368698_122235383738100475_3964302723964603622_n-w1200.webp"
+        },
+        {
+          "file": "663381224_122235384128100475_6554587304483741643_n.jpg",
+          "src": "/collections/7-last-words/663381224_122235384128100475_6554587304483741643_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 572768,
+          "thumb": "/optimized/7-last-words/663381224_122235384128100475_6554587304483741643_n-w480.webp",
+          "medium": "/optimized/7-last-words/663381224_122235384128100475_6554587304483741643_n-w1200.webp"
+        },
+        {
+          "file": "666956136_122235383690100475_4560070124511671423_n.jpg",
+          "src": "/collections/7-last-words/666956136_122235383690100475_4560070124511671423_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 572341,
+          "thumb": "/optimized/7-last-words/666956136_122235383690100475_4560070124511671423_n-w480.webp",
+          "medium": "/optimized/7-last-words/666956136_122235383690100475_4560070124511671423_n-w1200.webp"
+        },
+        {
+          "file": "667453452_122235383588100475_942335206076148579_n.jpg",
+          "src": "/collections/7-last-words/667453452_122235383588100475_942335206076148579_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 398682,
+          "thumb": "/optimized/7-last-words/667453452_122235383588100475_942335206076148579_n-w480.webp",
+          "medium": "/optimized/7-last-words/667453452_122235383588100475_942335206076148579_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "banner-mission-lupang-banal",
+      "title": "Banner Mission Lupang Banal",
+      "count": 19,
+      "cover": {
+        "src": "/collections/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n.jpg",
+        "thumb": "/optimized/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "861323996_122255220284100475_9122397263281333704_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 807409,
+          "thumb": "/optimized/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n-w1200.webp"
+        },
+        {
+          "file": "861915321_122255220368100475_6719619362069093067_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/861915321_122255220368100475_6719619362069093067_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 425434,
+          "thumb": "/optimized/banner-mission-lupang-banal/861915321_122255220368100475_6719619362069093067_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/861915321_122255220368100475_6719619362069093067_n-w1200.webp"
+        },
+        {
+          "file": "861915324_122255219984100475_3233907761829552776_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/861915324_122255219984100475_3233907761829552776_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 416111,
+          "thumb": "/optimized/banner-mission-lupang-banal/861915324_122255219984100475_3233907761829552776_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/861915324_122255219984100475_3233907761829552776_n-w1200.webp"
+        },
+        {
+          "file": "861979324_122255220116100475_120133946486864220_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/861979324_122255220116100475_120133946486864220_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 643122,
+          "thumb": "/optimized/banner-mission-lupang-banal/861979324_122255220116100475_120133946486864220_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/861979324_122255220116100475_120133946486864220_n-w1200.webp"
+        },
+        {
+          "file": "862071366_122255220416100475_3255073820181620247_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862071366_122255220416100475_3255073820181620247_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 558646,
+          "thumb": "/optimized/banner-mission-lupang-banal/862071366_122255220416100475_3255073820181620247_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862071366_122255220416100475_3255073820181620247_n-w1200.webp"
+        },
+        {
+          "file": "862186432_122255220242100475_5707133173921357884_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862186432_122255220242100475_5707133173921357884_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 748385,
+          "thumb": "/optimized/banner-mission-lupang-banal/862186432_122255220242100475_5707133173921357884_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862186432_122255220242100475_5707133173921357884_n-w1200.webp"
+        },
+        {
+          "file": "862516203_122255219852100475_7688857585793182186_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862516203_122255219852100475_7688857585793182186_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 454222,
+          "thumb": "/optimized/banner-mission-lupang-banal/862516203_122255219852100475_7688857585793182186_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862516203_122255219852100475_7688857585793182186_n-w1200.webp"
+        },
+        {
+          "file": "862551149_122255220032100475_5667862851853889595_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862551149_122255220032100475_5667862851853889595_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 579357,
+          "thumb": "/optimized/banner-mission-lupang-banal/862551149_122255220032100475_5667862851853889595_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862551149_122255220032100475_5667862851853889595_n-w1200.webp"
+        },
+        {
+          "file": "862752665_122255219642100475_3599655833407050673_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862752665_122255219642100475_3599655833407050673_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 617149,
+          "thumb": "/optimized/banner-mission-lupang-banal/862752665_122255219642100475_3599655833407050673_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862752665_122255219642100475_3599655833407050673_n-w1200.webp"
+        },
+        {
+          "file": "862830757_122255219900100475_5046603815355855274_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/862830757_122255219900100475_5046603815355855274_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 587472,
+          "thumb": "/optimized/banner-mission-lupang-banal/862830757_122255219900100475_5046603815355855274_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/862830757_122255219900100475_5046603815355855274_n-w1200.webp"
+        },
+        {
+          "file": "863250415_122255220326100475_4269578890668916407_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/863250415_122255220326100475_4269578890668916407_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 720398,
+          "thumb": "/optimized/banner-mission-lupang-banal/863250415_122255220326100475_4269578890668916407_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/863250415_122255220326100475_4269578890668916407_n-w1200.webp"
+        },
+        {
+          "file": "863356982_122255219726100475_3176315932238632544_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/863356982_122255219726100475_3176315932238632544_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 619087,
+          "thumb": "/optimized/banner-mission-lupang-banal/863356982_122255219726100475_3176315932238632544_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/863356982_122255219726100475_3176315932238632544_n-w1200.webp"
+        },
+        {
+          "file": "864003171_122255220200100475_531312585398901657_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/864003171_122255220200100475_531312585398901657_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 735734,
+          "thumb": "/optimized/banner-mission-lupang-banal/864003171_122255220200100475_531312585398901657_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/864003171_122255220200100475_531312585398901657_n-w1200.webp"
+        },
+        {
+          "file": "864248761_122255220158100475_3758316669550818826_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/864248761_122255220158100475_3758316669550818826_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 688651,
+          "thumb": "/optimized/banner-mission-lupang-banal/864248761_122255220158100475_3758316669550818826_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/864248761_122255220158100475_3758316669550818826_n-w1200.webp"
+        },
+        {
+          "file": "864260865_122255219942100475_2690015941456462840_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/864260865_122255219942100475_2690015941456462840_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 463172,
+          "thumb": "/optimized/banner-mission-lupang-banal/864260865_122255219942100475_2690015941456462840_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/864260865_122255219942100475_2690015941456462840_n-w1200.webp"
+        },
+        {
+          "file": "865202813_122255220074100475_3006215392174103901_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/865202813_122255220074100475_3006215392174103901_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 809535,
+          "thumb": "/optimized/banner-mission-lupang-banal/865202813_122255220074100475_3006215392174103901_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/865202813_122255220074100475_3006215392174103901_n-w1200.webp"
+        },
+        {
+          "file": "865713970_122255219810100475_5286225059958944870_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/865713970_122255219810100475_5286225059958944870_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 431394,
+          "thumb": "/optimized/banner-mission-lupang-banal/865713970_122255219810100475_5286225059958944870_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/865713970_122255219810100475_5286225059958944870_n-w1200.webp"
+        },
+        {
+          "file": "866166223_122255219768100475_1589977988868144106_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/866166223_122255219768100475_1589977988868144106_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 615539,
+          "thumb": "/optimized/banner-mission-lupang-banal/866166223_122255219768100475_1589977988868144106_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/866166223_122255219768100475_1589977988868144106_n-w1200.webp"
+        },
+        {
+          "file": "866484360_122255219684100475_6104240867762457647_n.jpg",
+          "src": "/collections/banner-mission-lupang-banal/866484360_122255219684100475_6104240867762457647_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 640892,
+          "thumb": "/optimized/banner-mission-lupang-banal/866484360_122255219684100475_6104240867762457647_n-w480.webp",
+          "medium": "/optimized/banner-mission-lupang-banal/866484360_122255219684100475_6104240867762457647_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "centro-inhoc-signo-vinces-mission",
+      "title": "Centro Inhoc Signo Vinces Mission",
+      "count": 12,
+      "cover": {
+        "src": "/collections/centro-inhoc-signo-vinces-mission/764065708_122247130358100475_1560817661142298447_n.jpg",
+        "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764065708_122247130358100475_1560817661142298447_n-w480.webp",
+        "width": 1944,
+        "height": 1944
+      },
+      "images": [
+        {
+          "file": "764065708_122247130358100475_1560817661142298447_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764065708_122247130358100475_1560817661142298447_n.jpg",
+          "width": 1944,
+          "height": 1944,
+          "orientation": "square",
+          "bytes": 303946,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764065708_122247130358100475_1560817661142298447_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764065708_122247130358100475_1560817661142298447_n-w1200.webp"
+        },
+        {
+          "file": "763701380_122247129878100475_7732899381822482532_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/763701380_122247129878100475_7732899381822482532_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 323225,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/763701380_122247129878100475_7732899381822482532_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/763701380_122247129878100475_7732899381822482532_n-w1200.webp"
+        },
+        {
+          "file": "763722887_122247130010100475_6970265373720146130_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/763722887_122247130010100475_6970265373720146130_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 283863,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/763722887_122247130010100475_6970265373720146130_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/763722887_122247130010100475_6970265373720146130_n-w1200.webp"
+        },
+        {
+          "file": "763895290_122247130094100475_4806047675952773346_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/763895290_122247130094100475_4806047675952773346_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 257389,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/763895290_122247130094100475_4806047675952773346_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/763895290_122247130094100475_4806047675952773346_n-w1200.webp"
+        },
+        {
+          "file": "763925969_122247130274100475_1144331756231400139_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/763925969_122247130274100475_1144331756231400139_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 243444,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/763925969_122247130274100475_1144331756231400139_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/763925969_122247130274100475_1144331756231400139_n-w1200.webp"
+        },
+        {
+          "file": "764006336_122247130052100475_2973768739627111528_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764006336_122247130052100475_2973768739627111528_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 146782,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764006336_122247130052100475_2973768739627111528_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764006336_122247130052100475_2973768739627111528_n-w1200.webp"
+        },
+        {
+          "file": "764036708_122247129968100475_8976460291394010827_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764036708_122247129968100475_8976460291394010827_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 297983,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764036708_122247129968100475_8976460291394010827_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764036708_122247129968100475_8976460291394010827_n-w1200.webp"
+        },
+        {
+          "file": "764056657_122247130136100475_2269797280132425114_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764056657_122247130136100475_2269797280132425114_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 397011,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764056657_122247130136100475_2269797280132425114_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764056657_122247130136100475_2269797280132425114_n-w1200.webp"
+        },
+        {
+          "file": "764103275_122247130178100475_5818301772836118930_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764103275_122247130178100475_5818301772836118930_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 310411,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764103275_122247130178100475_5818301772836118930_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764103275_122247130178100475_5818301772836118930_n-w1200.webp"
+        },
+        {
+          "file": "764976136_122247130226100475_2107485059825269426_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/764976136_122247130226100475_2107485059825269426_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 460245,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/764976136_122247130226100475_2107485059825269426_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/764976136_122247130226100475_2107485059825269426_n-w1200.webp"
+        },
+        {
+          "file": "765769767_122247129926100475_2021092030716998803_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/765769767_122247129926100475_2021092030716998803_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 307266,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/765769767_122247129926100475_2021092030716998803_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/765769767_122247129926100475_2021092030716998803_n-w1200.webp"
+        },
+        {
+          "file": "763722887_122247130316100475_5345866629334132777_n.jpg",
+          "src": "/collections/centro-inhoc-signo-vinces-mission/763722887_122247130316100475_5345866629334132777_n.jpg",
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "bytes": 171070,
+          "thumb": "/optimized/centro-inhoc-signo-vinces-mission/763722887_122247130316100475_5345866629334132777_n-w480.webp",
+          "medium": "/optimized/centro-inhoc-signo-vinces-mission/763722887_122247130316100475_5345866629334132777_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "centro-patos-mission",
+      "title": "Centro Patos Mission",
+      "count": 6,
+      "cover": {
+        "src": "/collections/centro-patos-mission/787667511_122249265632100475_7909006441433819278_n.jpg",
+        "thumb": "/optimized/centro-patos-mission/787667511_122249265632100475_7909006441433819278_n-w480.webp",
+        "width": 2048,
+        "height": 1534
+      },
+      "images": [
+        {
+          "file": "787667511_122249265632100475_7909006441433819278_n.jpg",
+          "src": "/collections/centro-patos-mission/787667511_122249265632100475_7909006441433819278_n.jpg",
+          "width": 2048,
+          "height": 1534,
+          "orientation": "landscape",
+          "bytes": 349823,
+          "thumb": "/optimized/centro-patos-mission/787667511_122249265632100475_7909006441433819278_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/787667511_122249265632100475_7909006441433819278_n-w1200.webp"
+        },
+        {
+          "file": "787856135_122249265692100475_5398779832601480506_n.jpg",
+          "src": "/collections/centro-patos-mission/787856135_122249265692100475_5398779832601480506_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 313271,
+          "thumb": "/optimized/centro-patos-mission/787856135_122249265692100475_5398779832601480506_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/787856135_122249265692100475_5398779832601480506_n-w1200.webp"
+        },
+        {
+          "file": "788141802_122249265446100475_2935141267841378289_n.jpg",
+          "src": "/collections/centro-patos-mission/788141802_122249265446100475_2935141267841378289_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 363089,
+          "thumb": "/optimized/centro-patos-mission/788141802_122249265446100475_2935141267841378289_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/788141802_122249265446100475_2935141267841378289_n-w1200.webp"
+        },
+        {
+          "file": "788261040_122249265548100475_348295472950196525_n.jpg",
+          "src": "/collections/centro-patos-mission/788261040_122249265548100475_348295472950196525_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 298391,
+          "thumb": "/optimized/centro-patos-mission/788261040_122249265548100475_348295472950196525_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/788261040_122249265548100475_348295472950196525_n-w1200.webp"
+        },
+        {
+          "file": "788592876_122249265590100475_5915067180693788959_n.jpg",
+          "src": "/collections/centro-patos-mission/788592876_122249265590100475_5915067180693788959_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 253384,
+          "thumb": "/optimized/centro-patos-mission/788592876_122249265590100475_5915067180693788959_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/788592876_122249265590100475_5915067180693788959_n-w1200.webp"
+        },
+        {
+          "file": "788629817_122249265500100475_5883031251512203075_n.jpg",
+          "src": "/collections/centro-patos-mission/788629817_122249265500100475_5883031251512203075_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 331222,
+          "thumb": "/optimized/centro-patos-mission/788629817_122249265500100475_5883031251512203075_n-w480.webp",
+          "medium": "/optimized/centro-patos-mission/788629817_122249265500100475_5883031251512203075_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "christmas-spiritual-celebration",
+      "title": "Christmas Spiritual Celebration",
+      "count": 14,
+      "cover": {
+        "src": "/collections/christmas-spiritual-celebration/862730758_122255213048100475_4994934324016954442_n.jpg",
+        "thumb": "/optimized/christmas-spiritual-celebration/862730758_122255213048100475_4994934324016954442_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "862071361_122255213438100475_8053230804251295446_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/862071361_122255213438100475_8053230804251295446_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 467520,
+          "thumb": "/optimized/christmas-spiritual-celebration/862071361_122255213438100475_8053230804251295446_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/862071361_122255213438100475_8053230804251295446_n-w1200.webp"
+        },
+        {
+          "file": "862186434_122255213258100475_8796505204182590375_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/862186434_122255213258100475_8796505204182590375_n.jpg",
+          "width": 720,
+          "height": 1280,
+          "orientation": "portrait",
+          "bytes": 126340,
+          "thumb": "/optimized/christmas-spiritual-celebration/862186434_122255213258100475_8796505204182590375_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/862186434_122255213258100475_8796505204182590375_n-w1200.webp"
+        },
+        {
+          "file": "862405177_122255212964100475_7914190844876680562_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/862405177_122255212964100475_7914190844876680562_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 364121,
+          "thumb": "/optimized/christmas-spiritual-celebration/862405177_122255212964100475_7914190844876680562_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/862405177_122255212964100475_7914190844876680562_n-w1200.webp"
+        },
+        {
+          "file": "862660100_122255213312100475_7096128648710934101_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/862660100_122255213312100475_7096128648710934101_n.jpg",
+          "width": 720,
+          "height": 1280,
+          "orientation": "portrait",
+          "bytes": 126107,
+          "thumb": "/optimized/christmas-spiritual-celebration/862660100_122255213312100475_7096128648710934101_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/862660100_122255213312100475_7096128648710934101_n-w1200.webp"
+        },
+        {
+          "file": "862730758_122255213048100475_4994934324016954442_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/862730758_122255213048100475_4994934324016954442_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 491205,
+          "thumb": "/optimized/christmas-spiritual-celebration/862730758_122255213048100475_4994934324016954442_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/862730758_122255213048100475_4994934324016954442_n-w1200.webp"
+        },
+        {
+          "file": "863494215_122255213174100475_7160704681462582780_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/863494215_122255213174100475_7160704681462582780_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 381675,
+          "thumb": "/optimized/christmas-spiritual-celebration/863494215_122255213174100475_7160704681462582780_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/863494215_122255213174100475_7160704681462582780_n-w1200.webp"
+        },
+        {
+          "file": "863678736_122255213006100475_1777897015506829120_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/863678736_122255213006100475_1777897015506829120_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 404344,
+          "thumb": "/optimized/christmas-spiritual-celebration/863678736_122255213006100475_1777897015506829120_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/863678736_122255213006100475_1777897015506829120_n-w1200.webp"
+        },
+        {
+          "file": "863907827_122255212922100475_2788158659662707504_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/863907827_122255212922100475_2788158659662707504_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 402487,
+          "thumb": "/optimized/christmas-spiritual-celebration/863907827_122255212922100475_2788158659662707504_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/863907827_122255212922100475_2788158659662707504_n-w1200.webp"
+        },
+        {
+          "file": "864284450_122255213090100475_1908247515762384451_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/864284450_122255213090100475_1908247515762384451_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 400027,
+          "thumb": "/optimized/christmas-spiritual-celebration/864284450_122255213090100475_1908247515762384451_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/864284450_122255213090100475_1908247515762384451_n-w1200.webp"
+        },
+        {
+          "file": "864284461_122255213132100475_3915568721376914259_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/864284461_122255213132100475_3915568721376914259_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 405954,
+          "thumb": "/optimized/christmas-spiritual-celebration/864284461_122255213132100475_3915568721376914259_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/864284461_122255213132100475_3915568721376914259_n-w1200.webp"
+        },
+        {
+          "file": "864959347_122255213354100475_9045560457588769087_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/864959347_122255213354100475_9045560457588769087_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 540462,
+          "thumb": "/optimized/christmas-spiritual-celebration/864959347_122255213354100475_9045560457588769087_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/864959347_122255213354100475_9045560457588769087_n-w1200.webp"
+        },
+        {
+          "file": "865085824_122255212880100475_4998437509943741891_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/865085824_122255212880100475_4998437509943741891_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 338190,
+          "thumb": "/optimized/christmas-spiritual-celebration/865085824_122255212880100475_4998437509943741891_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/865085824_122255212880100475_4998437509943741891_n-w1200.webp"
+        },
+        {
+          "file": "865202811_122255213396100475_1907782497255669082_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/865202811_122255213396100475_1907782497255669082_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 371296,
+          "thumb": "/optimized/christmas-spiritual-celebration/865202811_122255213396100475_1907782497255669082_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/865202811_122255213396100475_1907782497255669082_n-w1200.webp"
+        },
+        {
+          "file": "866568418_122255213216100475_7779554073960285512_n.jpg",
+          "src": "/collections/christmas-spiritual-celebration/866568418_122255213216100475_7779554073960285512_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 308446,
+          "thumb": "/optimized/christmas-spiritual-celebration/866568418_122255213216100475_7779554073960285512_n-w480.webp",
+          "medium": "/optimized/christmas-spiritual-celebration/866568418_122255213216100475_7779554073960285512_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "gampanin",
+      "title": "Gampanin",
+      "count": 7,
+      "cover": {
+        "src": "/collections/gampanin/703119961_122239719248100475_6517305531362546926_n.jpg",
+        "thumb": "/optimized/gampanin/703119961_122239719248100475_6517305531362546926_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "701600509_122239719020100475_3723406464534324970_n.jpg",
+          "src": "/collections/gampanin/701600509_122239719020100475_3723406464534324970_n.jpg",
+          "width": 443,
+          "height": 590,
+          "orientation": "portrait",
+          "bytes": 59302,
+          "thumb": "/optimized/gampanin/701600509_122239719020100475_3723406464534324970_n-w480.webp",
+          "medium": "/optimized/gampanin/701600509_122239719020100475_3723406464534324970_n-w1200.webp"
+        },
+        {
+          "file": "702394117_122239719062100475_6325293160338942601_n.jpg",
+          "src": "/collections/gampanin/702394117_122239719062100475_6325293160338942601_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 629926,
+          "thumb": "/optimized/gampanin/702394117_122239719062100475_6325293160338942601_n-w480.webp",
+          "medium": "/optimized/gampanin/702394117_122239719062100475_6325293160338942601_n-w1200.webp"
+        },
+        {
+          "file": "702450397_122239719158100475_4414098530686934833_n.jpg",
+          "src": "/collections/gampanin/702450397_122239719158100475_4414098530686934833_n.jpg",
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "bytes": 266146,
+          "thumb": "/optimized/gampanin/702450397_122239719158100475_4414098530686934833_n-w480.webp",
+          "medium": "/optimized/gampanin/702450397_122239719158100475_4414098530686934833_n-w1200.webp"
+        },
+        {
+          "file": "702470663_122239719290100475_329969979651498771_n.jpg",
+          "src": "/collections/gampanin/702470663_122239719290100475_329969979651498771_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 261918,
+          "thumb": "/optimized/gampanin/702470663_122239719290100475_329969979651498771_n-w480.webp",
+          "medium": "/optimized/gampanin/702470663_122239719290100475_329969979651498771_n-w1200.webp"
+        },
+        {
+          "file": "702569887_122239719206100475_8920931568191639181_n.jpg",
+          "src": "/collections/gampanin/702569887_122239719206100475_8920931568191639181_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 514223,
+          "thumb": "/optimized/gampanin/702569887_122239719206100475_8920931568191639181_n-w480.webp",
+          "medium": "/optimized/gampanin/702569887_122239719206100475_8920931568191639181_n-w1200.webp"
+        },
+        {
+          "file": "702876120_122239719110100475_7321118665104316599_n.jpg",
+          "src": "/collections/gampanin/702876120_122239719110100475_7321118665104316599_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 651786,
+          "thumb": "/optimized/gampanin/702876120_122239719110100475_7321118665104316599_n-w480.webp",
+          "medium": "/optimized/gampanin/702876120_122239719110100475_7321118665104316599_n-w1200.webp"
+        },
+        {
+          "file": "703119961_122239719248100475_6517305531362546926_n.jpg",
+          "src": "/collections/gampanin/703119961_122239719248100475_6517305531362546926_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 225411,
+          "thumb": "/optimized/gampanin/703119961_122239719248100475_6517305531362546926_n-w480.webp",
+          "medium": "/optimized/gampanin/703119961_122239719248100475_6517305531362546926_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "good-friday",
+      "title": "Good Friday",
+      "count": 3,
+      "cover": {
+        "src": "/collections/good-friday/665196913_122235385850100475_625428417065597588_n.jpg",
+        "thumb": "/optimized/good-friday/665196913_122235385850100475_625428417065597588_n-w480.webp",
+        "width": 2048,
+        "height": 1716
+      },
+      "images": [
+        {
+          "file": "661168627_122235385760100475_4354404106387094118_n.jpg",
+          "src": "/collections/good-friday/661168627_122235385760100475_4354404106387094118_n.jpg",
+          "width": 1424,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 403607,
+          "thumb": "/optimized/good-friday/661168627_122235385760100475_4354404106387094118_n-w480.webp",
+          "medium": "/optimized/good-friday/661168627_122235385760100475_4354404106387094118_n-w1200.webp"
+        },
+        {
+          "file": "662653485_122235385718100475_424026778289105628_n.jpg",
+          "src": "/collections/good-friday/662653485_122235385718100475_424026778289105628_n.jpg",
+          "width": 410,
+          "height": 590,
+          "orientation": "portrait",
+          "bytes": 54209,
+          "thumb": "/optimized/good-friday/662653485_122235385718100475_424026778289105628_n-w480.webp",
+          "medium": "/optimized/good-friday/662653485_122235385718100475_424026778289105628_n-w1200.webp"
+        },
+        {
+          "file": "665196913_122235385850100475_625428417065597588_n.jpg",
+          "src": "/collections/good-friday/665196913_122235385850100475_625428417065597588_n.jpg",
+          "width": 2048,
+          "height": 1716,
+          "orientation": "landscape",
+          "bytes": 649907,
+          "thumb": "/optimized/good-friday/665196913_122235385850100475_625428417065597588_n-w480.webp",
+          "medium": "/optimized/good-friday/665196913_122235385850100475_625428417065597588_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "herbal-medicine",
+      "title": "Herbal Medicine",
+      "count": 4,
+      "cover": {
+        "src": "/collections/herbal-medicine/771814282_122247739946100475_6046366189035937098_n.jpg",
+        "thumb": "/optimized/herbal-medicine/771814282_122247739946100475_6046366189035937098_n-w480.webp",
+        "width": 1536,
+        "height": 2048
+      },
+      "images": [
+        {
+          "file": "771814282_122247739946100475_6046366189035937098_n.jpg",
+          "src": "/collections/herbal-medicine/771814282_122247739946100475_6046366189035937098_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 280796,
+          "thumb": "/optimized/herbal-medicine/771814282_122247739946100475_6046366189035937098_n-w480.webp",
+          "medium": "/optimized/herbal-medicine/771814282_122247739946100475_6046366189035937098_n-w1200.webp"
+        },
+        {
+          "file": "771894465_122247739862100475_7324975647210311891_n.jpg",
+          "src": "/collections/herbal-medicine/771894465_122247739862100475_7324975647210311891_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 286215,
+          "thumb": "/optimized/herbal-medicine/771894465_122247739862100475_7324975647210311891_n-w480.webp",
+          "medium": "/optimized/herbal-medicine/771894465_122247739862100475_7324975647210311891_n-w1200.webp"
+        },
+        {
+          "file": "772333344_122247739904100475_1468517211581012366_n.jpg",
+          "src": "/collections/herbal-medicine/772333344_122247739904100475_1468517211581012366_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 451388,
+          "thumb": "/optimized/herbal-medicine/772333344_122247739904100475_1468517211581012366_n-w480.webp",
+          "medium": "/optimized/herbal-medicine/772333344_122247739904100475_1468517211581012366_n-w1200.webp"
+        },
+        {
+          "file": "772795873_122247739994100475_6967581960316629232_n.jpg",
+          "src": "/collections/herbal-medicine/772795873_122247739994100475_6967581960316629232_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 507404,
+          "thumb": "/optimized/herbal-medicine/772795873_122247739994100475_6967581960316629232_n-w480.webp",
+          "medium": "/optimized/herbal-medicine/772795873_122247739994100475_6967581960316629232_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "herbal-medicine-2",
+      "title": "Herbal Medicine 2",
+      "count": 11,
+      "cover": {
+        "src": "/collections/herbal-medicine-2/788717246_122249266808100475_2411480849431562342_n.jpg",
+        "thumb": "/optimized/herbal-medicine-2/788717246_122249266808100475_2411480849431562342_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "785215800_122249266682100475_1439725221466925875_n.jpg",
+          "src": "/collections/herbal-medicine-2/785215800_122249266682100475_1439725221466925875_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 896932,
+          "thumb": "/optimized/herbal-medicine-2/785215800_122249266682100475_1439725221466925875_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/785215800_122249266682100475_1439725221466925875_n-w1200.webp"
+        },
+        {
+          "file": "787205580_122249267108100475_5829707949559708794_n.jpg",
+          "src": "/collections/herbal-medicine-2/787205580_122249267108100475_5829707949559708794_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 507404,
+          "thumb": "/optimized/herbal-medicine-2/787205580_122249267108100475_5829707949559708794_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/787205580_122249267108100475_5829707949559708794_n-w1200.webp"
+        },
+        {
+          "file": "787904107_122249266724100475_7776395241533058774_n.jpg",
+          "src": "/collections/herbal-medicine-2/787904107_122249266724100475_7776395241533058774_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 307739,
+          "thumb": "/optimized/herbal-medicine-2/787904107_122249266724100475_7776395241533058774_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/787904107_122249266724100475_7776395241533058774_n-w1200.webp"
+        },
+        {
+          "file": "787924712_122249266766100475_3053092665116587109_n.jpg",
+          "src": "/collections/herbal-medicine-2/787924712_122249266766100475_3053092665116587109_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 431355,
+          "thumb": "/optimized/herbal-medicine-2/787924712_122249266766100475_3053092665116587109_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/787924712_122249266766100475_3053092665116587109_n-w1200.webp"
+        },
+        {
+          "file": "788385052_122249266940100475_3698127472497078242_n.jpg",
+          "src": "/collections/herbal-medicine-2/788385052_122249266940100475_3698127472497078242_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 451388,
+          "thumb": "/optimized/herbal-medicine-2/788385052_122249266940100475_3698127472497078242_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788385052_122249266940100475_3698127472497078242_n-w1200.webp"
+        },
+        {
+          "file": "788528497_122249266850100475_6373245267775573485_n.jpg",
+          "src": "/collections/herbal-medicine-2/788528497_122249266850100475_6373245267775573485_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 477422,
+          "thumb": "/optimized/herbal-medicine-2/788528497_122249266850100475_6373245267775573485_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788528497_122249266850100475_6373245267775573485_n-w1200.webp"
+        },
+        {
+          "file": "788563297_122249266982100475_4092432935970218829_n.jpg",
+          "src": "/collections/herbal-medicine-2/788563297_122249266982100475_4092432935970218829_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 280796,
+          "thumb": "/optimized/herbal-medicine-2/788563297_122249266982100475_4092432935970218829_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788563297_122249266982100475_4092432935970218829_n-w1200.webp"
+        },
+        {
+          "file": "788563330_122249267024100475_82359088169879797_n.jpg",
+          "src": "/collections/herbal-medicine-2/788563330_122249267024100475_82359088169879797_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 336821,
+          "thumb": "/optimized/herbal-medicine-2/788563330_122249267024100475_82359088169879797_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788563330_122249267024100475_82359088169879797_n-w1200.webp"
+        },
+        {
+          "file": "788601554_122249267066100475_1976223928143924898_n.jpg",
+          "src": "/collections/herbal-medicine-2/788601554_122249267066100475_1976223928143924898_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 286215,
+          "thumb": "/optimized/herbal-medicine-2/788601554_122249267066100475_1976223928143924898_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788601554_122249267066100475_1976223928143924898_n-w1200.webp"
+        },
+        {
+          "file": "788641047_122249266892100475_9082553722480214291_n.jpg",
+          "src": "/collections/herbal-medicine-2/788641047_122249266892100475_9082553722480214291_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 551339,
+          "thumb": "/optimized/herbal-medicine-2/788641047_122249266892100475_9082553722480214291_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788641047_122249266892100475_9082553722480214291_n-w1200.webp"
+        },
+        {
+          "file": "788717246_122249266808100475_2411480849431562342_n.jpg",
+          "src": "/collections/herbal-medicine-2/788717246_122249266808100475_2411480849431562342_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 298126,
+          "thumb": "/optimized/herbal-medicine-2/788717246_122249266808100475_2411480849431562342_n-w480.webp",
+          "medium": "/optimized/herbal-medicine-2/788717246_122249266808100475_2411480849431562342_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "holyweek-mission-2026",
+      "title": "Holyweek Mission 2026",
+      "count": 14,
+      "cover": {
+        "src": "/collections/holyweek-mission-2026/661273390_122235377576100475_5722558290993868556_n.jpg",
+        "thumb": "/optimized/holyweek-mission-2026/661273390_122235377576100475_5722558290993868556_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "661273390_122235377576100475_5722558290993868556_n.jpg",
+          "src": "/collections/holyweek-mission-2026/661273390_122235377576100475_5722558290993868556_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 712694,
+          "thumb": "/optimized/holyweek-mission-2026/661273390_122235377576100475_5722558290993868556_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/661273390_122235377576100475_5722558290993868556_n-w1200.webp"
+        },
+        {
+          "file": "661496555_122235377450100475_6248051929634722902_n.jpg",
+          "src": "/collections/holyweek-mission-2026/661496555_122235377450100475_6248051929634722902_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 352318,
+          "thumb": "/optimized/holyweek-mission-2026/661496555_122235377450100475_6248051929634722902_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/661496555_122235377450100475_6248051929634722902_n-w1200.webp"
+        },
+        {
+          "file": "661627059_122235377102100475_1378060144983054320_n.jpg",
+          "src": "/collections/holyweek-mission-2026/661627059_122235377102100475_1378060144983054320_n.jpg",
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "bytes": 202050,
+          "thumb": "/optimized/holyweek-mission-2026/661627059_122235377102100475_1378060144983054320_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/661627059_122235377102100475_1378060144983054320_n-w1200.webp"
+        },
+        {
+          "file": "661981754_122235377618100475_1221636065680998373_n.jpg",
+          "src": "/collections/holyweek-mission-2026/661981754_122235377618100475_1221636065680998373_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 282993,
+          "thumb": "/optimized/holyweek-mission-2026/661981754_122235377618100475_1221636065680998373_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/661981754_122235377618100475_1221636065680998373_n-w1200.webp"
+        },
+        {
+          "file": "662105727_122235377060100475_836382232947878104_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662105727_122235377060100475_836382232947878104_n.jpg",
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "bytes": 253195,
+          "thumb": "/optimized/holyweek-mission-2026/662105727_122235377060100475_836382232947878104_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662105727_122235377060100475_836382232947878104_n-w1200.webp"
+        },
+        {
+          "file": "662485139_122235377228100475_4689202568833324419_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662485139_122235377228100475_4689202568833324419_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 237212,
+          "thumb": "/optimized/holyweek-mission-2026/662485139_122235377228100475_4689202568833324419_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662485139_122235377228100475_4689202568833324419_n-w1200.webp"
+        },
+        {
+          "file": "662493157_122235377354100475_5504416587451038671_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662493157_122235377354100475_5504416587451038671_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 162209,
+          "thumb": "/optimized/holyweek-mission-2026/662493157_122235377354100475_5504416587451038671_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662493157_122235377354100475_5504416587451038671_n-w1200.webp"
+        },
+        {
+          "file": "662551237_122235377270100475_1472888852193058495_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662551237_122235377270100475_1472888852193058495_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 254306,
+          "thumb": "/optimized/holyweek-mission-2026/662551237_122235377270100475_1472888852193058495_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662551237_122235377270100475_1472888852193058495_n-w1200.webp"
+        },
+        {
+          "file": "662617023_122235377492100475_1851042104459535441_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662617023_122235377492100475_1851042104459535441_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 325152,
+          "thumb": "/optimized/holyweek-mission-2026/662617023_122235377492100475_1851042104459535441_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662617023_122235377492100475_1851042104459535441_n-w1200.webp"
+        },
+        {
+          "file": "662950378_122235377186100475_804014275618214236_n.jpg",
+          "src": "/collections/holyweek-mission-2026/662950378_122235377186100475_804014275618214236_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 357221,
+          "thumb": "/optimized/holyweek-mission-2026/662950378_122235377186100475_804014275618214236_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/662950378_122235377186100475_804014275618214236_n-w1200.webp"
+        },
+        {
+          "file": "663381220_122235377402100475_2449617064981352345_n.jpg",
+          "src": "/collections/holyweek-mission-2026/663381220_122235377402100475_2449617064981352345_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 203151,
+          "thumb": "/optimized/holyweek-mission-2026/663381220_122235377402100475_2449617064981352345_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/663381220_122235377402100475_2449617064981352345_n-w1200.webp"
+        },
+        {
+          "file": "665722551_122235377312100475_2842654591622418390_n.jpg",
+          "src": "/collections/holyweek-mission-2026/665722551_122235377312100475_2842654591622418390_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 225907,
+          "thumb": "/optimized/holyweek-mission-2026/665722551_122235377312100475_2842654591622418390_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/665722551_122235377312100475_2842654591622418390_n-w1200.webp"
+        },
+        {
+          "file": "665995018_122235377144100475_407308413866164430_n.jpg",
+          "src": "/collections/holyweek-mission-2026/665995018_122235377144100475_407308413866164430_n.jpg",
+          "width": 1080,
+          "height": 1920,
+          "orientation": "portrait",
+          "bytes": 233617,
+          "thumb": "/optimized/holyweek-mission-2026/665995018_122235377144100475_407308413866164430_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/665995018_122235377144100475_407308413866164430_n-w1200.webp"
+        },
+        {
+          "file": "666836476_122235377534100475_3655277139405143227_n.jpg",
+          "src": "/collections/holyweek-mission-2026/666836476_122235377534100475_3655277139405143227_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 348918,
+          "thumb": "/optimized/holyweek-mission-2026/666836476_122235377534100475_3655277139405143227_n-w480.webp",
+          "medium": "/optimized/holyweek-mission-2026/666836476_122235377534100475_3655277139405143227_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "kabataan-lingkod-ng-diyos",
+      "title": "Kabataan Lingkod Ng Diyos",
+      "count": 8,
+      "cover": {
+        "src": "/collections/kabataan-lingkod-ng-diyos/663331068_122235390284100475_7287990594135590692_n.jpg",
+        "thumb": "/optimized/kabataan-lingkod-ng-diyos/663331068_122235390284100475_7287990594135590692_n-w480.webp",
+        "width": 1536,
+        "height": 2048
+      },
+      "images": [
+        {
+          "file": "663331068_122235390284100475_7287990594135590692_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/663331068_122235390284100475_7287990594135590692_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 576082,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/663331068_122235390284100475_7287990594135590692_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/663331068_122235390284100475_7287990594135590692_n-w1200.webp"
+        },
+        {
+          "file": "666656167_122235390146100475_6349479315346525318_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/666656167_122235390146100475_6349479315346525318_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 807585,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/666656167_122235390146100475_6349479315346525318_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/666656167_122235390146100475_6349479315346525318_n-w1200.webp"
+        },
+        {
+          "file": "667318715_122235390410100475_7547803289750512725_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/667318715_122235390410100475_7547803289750512725_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 519651,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/667318715_122235390410100475_7547803289750512725_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/667318715_122235390410100475_7547803289750512725_n-w1200.webp"
+        },
+        {
+          "file": "661589560_122235390236100475_7876852438370221094_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/661589560_122235390236100475_7876852438370221094_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 533262,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/661589560_122235390236100475_7876852438370221094_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/661589560_122235390236100475_7876852438370221094_n-w1200.webp"
+        },
+        {
+          "file": "665274407_122235390368100475_1411603672523556949_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/665274407_122235390368100475_1411603672523556949_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 327715,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/665274407_122235390368100475_1411603672523556949_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/665274407_122235390368100475_1411603672523556949_n-w1200.webp"
+        },
+        {
+          "file": "665542873_122235390098100475_1624675006850096627_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/665542873_122235390098100475_1624675006850096627_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 463863,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/665542873_122235390098100475_1624675006850096627_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/665542873_122235390098100475_1624675006850096627_n-w1200.webp"
+        },
+        {
+          "file": "662300218_122235390014100475_1403661191387040258_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/662300218_122235390014100475_1403661191387040258_n.jpg",
+          "width": 1424,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 576960,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/662300218_122235390014100475_1403661191387040258_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/662300218_122235390014100475_1403661191387040258_n-w1200.webp"
+        },
+        {
+          "file": "662488026_122235390056100475_6671437636157137799_n.jpg",
+          "src": "/collections/kabataan-lingkod-ng-diyos/662488026_122235390056100475_6671437636157137799_n.jpg",
+          "width": 1424,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 598178,
+          "thumb": "/optimized/kabataan-lingkod-ng-diyos/662488026_122235390056100475_6671437636157137799_n-w480.webp",
+          "medium": "/optimized/kabataan-lingkod-ng-diyos/662488026_122235390056100475_6671437636157137799_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "mediums-of-god",
+      "title": "Mediums Of God",
+      "count": 10,
+      "cover": {
+        "src": "/collections/mediums-of-god/661443384_122235380690100475_5080413164103792405_n.jpg",
+        "thumb": "/optimized/mediums-of-god/661443384_122235380690100475_5080413164103792405_n-w480.webp",
+        "width": 2048,
+        "height": 1110
+      },
+      "images": [
+        {
+          "file": "661381215_122235380930100475_8024069556359393544_n.jpg",
+          "src": "/collections/mediums-of-god/661381215_122235380930100475_8024069556359393544_n.jpg",
+          "width": 922,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 316686,
+          "thumb": "/optimized/mediums-of-god/661381215_122235380930100475_8024069556359393544_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/661381215_122235380930100475_8024069556359393544_n-w1200.webp"
+        },
+        {
+          "file": "661443384_122235380690100475_5080413164103792405_n.jpg",
+          "src": "/collections/mediums-of-god/661443384_122235380690100475_5080413164103792405_n.jpg",
+          "width": 2048,
+          "height": 1110,
+          "orientation": "landscape",
+          "bytes": 136247,
+          "thumb": "/optimized/mediums-of-god/661443384_122235380690100475_5080413164103792405_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/661443384_122235380690100475_5080413164103792405_n-w1200.webp"
+        },
+        {
+          "file": "662872202_122235380738100475_2106081578364599884_n.jpg",
+          "src": "/collections/mediums-of-god/662872202_122235380738100475_2106081578364599884_n.jpg",
+          "width": 1424,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 576712,
+          "thumb": "/optimized/mediums-of-god/662872202_122235380738100475_2106081578364599884_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/662872202_122235380738100475_2106081578364599884_n-w1200.webp"
+        },
+        {
+          "file": "663041238_122235381020100475_8636527053001981415_n.jpg",
+          "src": "/collections/mediums-of-god/663041238_122235381020100475_8636527053001981415_n.jpg",
+          "width": 2048,
+          "height": 920,
+          "orientation": "landscape",
+          "bytes": 199350,
+          "thumb": "/optimized/mediums-of-god/663041238_122235381020100475_8636527053001981415_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/663041238_122235381020100475_8636527053001981415_n-w1200.webp"
+        },
+        {
+          "file": "663143861_122235380792100475_2548029614815363847_n.jpg",
+          "src": "/collections/mediums-of-god/663143861_122235380792100475_2548029614815363847_n.jpg",
+          "width": 2048,
+          "height": 2048,
+          "orientation": "square",
+          "bytes": 214859,
+          "thumb": "/optimized/mediums-of-god/663143861_122235380792100475_2548029614815363847_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/663143861_122235380792100475_2548029614815363847_n-w1200.webp"
+        },
+        {
+          "file": "663251765_122235380840100475_794481870252280278_n.jpg",
+          "src": "/collections/mediums-of-god/663251765_122235380840100475_794481870252280278_n.jpg",
+          "width": 922,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 273377,
+          "thumb": "/optimized/mediums-of-god/663251765_122235380840100475_794481870252280278_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/663251765_122235380840100475_794481870252280278_n-w1200.webp"
+        },
+        {
+          "file": "663309377_122235380978100475_4556551127979670623_n.jpg",
+          "src": "/collections/mediums-of-god/663309377_122235380978100475_4556551127979670623_n.jpg",
+          "width": 2048,
+          "height": 920,
+          "orientation": "landscape",
+          "bytes": 240670,
+          "thumb": "/optimized/mediums-of-god/663309377_122235380978100475_4556551127979670623_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/663309377_122235380978100475_4556551127979670623_n-w1200.webp"
+        },
+        {
+          "file": "666475934_122235381062100475_7867569101850875404_n.jpg",
+          "src": "/collections/mediums-of-god/666475934_122235381062100475_7867569101850875404_n.jpg",
+          "width": 922,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 212299,
+          "thumb": "/optimized/mediums-of-god/666475934_122235381062100475_7867569101850875404_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/666475934_122235381062100475_7867569101850875404_n-w1200.webp"
+        },
+        {
+          "file": "666645288_122235381104100475_2161024390362515369_n.jpg",
+          "src": "/collections/mediums-of-god/666645288_122235381104100475_2161024390362515369_n.jpg",
+          "width": 2048,
+          "height": 921,
+          "orientation": "landscape",
+          "bytes": 276796,
+          "thumb": "/optimized/mediums-of-god/666645288_122235381104100475_2161024390362515369_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/666645288_122235381104100475_2161024390362515369_n-w1200.webp"
+        },
+        {
+          "file": "667738322_122235380882100475_6198803694059572928_n.jpg",
+          "src": "/collections/mediums-of-god/667738322_122235380882100475_6198803694059572928_n.jpg",
+          "width": 922,
+          "height": 2046,
+          "orientation": "portrait",
+          "bytes": 236357,
+          "thumb": "/optimized/mediums-of-god/667738322_122235380882100475_6198803694059572928_n-w480.webp",
+          "medium": "/optimized/mediums-of-god/667738322_122235380882100475_6198803694059572928_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "power-of-christ-9th-anniversary",
+      "title": "Power Of Christ 9th Anniversary",
+      "count": 14,
+      "cover": {
+        "src": "/collections/power-of-christ-9th-anniversary/691063896_122238709946100475_203066101649100949_n.jpg",
+        "thumb": "/optimized/power-of-christ-9th-anniversary/691063896_122238709946100475_203066101649100949_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "691063896_122238709946100475_203066101649100949_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691063896_122238709946100475_203066101649100949_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 327356,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691063896_122238709946100475_203066101649100949_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691063896_122238709946100475_203066101649100949_n-w1200.webp"
+        },
+        {
+          "file": "691358149_122238709736100475_7014523047731961101_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691358149_122238709736100475_7014523047731961101_n.jpg",
+          "width": 1920,
+          "height": 1080,
+          "orientation": "landscape",
+          "bytes": 231248,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691358149_122238709736100475_7014523047731961101_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691358149_122238709736100475_7014523047731961101_n-w1200.webp"
+        },
+        {
+          "file": "691453180_122238709694100475_7898351706381050437_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691453180_122238709694100475_7898351706381050437_n.jpg",
+          "width": 2048,
+          "height": 1534,
+          "orientation": "landscape",
+          "bytes": 234887,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691453180_122238709694100475_7898351706381050437_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691453180_122238709694100475_7898351706381050437_n-w1200.webp"
+        },
+        {
+          "file": "691652414_122238709820100475_3492539658593940577_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691652414_122238709820100475_3492539658593940577_n.jpg",
+          "width": 1920,
+          "height": 1080,
+          "orientation": "landscape",
+          "bytes": 196518,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691652414_122238709820100475_3492539658593940577_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691652414_122238709820100475_3492539658593940577_n-w1200.webp"
+        },
+        {
+          "file": "691772569_122238710078100475_7644588865310291055_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691772569_122238710078100475_7644588865310291055_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 266138,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691772569_122238710078100475_7644588865310291055_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691772569_122238710078100475_7644588865310291055_n-w1200.webp"
+        },
+        {
+          "file": "691798228_122238709904100475_6718130361420874469_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/691798228_122238709904100475_6718130361420874469_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 239763,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/691798228_122238709904100475_6718130361420874469_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/691798228_122238709904100475_6718130361420874469_n-w1200.webp"
+        },
+        {
+          "file": "693432811_122238709652100475_6294334401390722043_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/693432811_122238709652100475_6294334401390722043_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 189052,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/693432811_122238709652100475_6294334401390722043_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/693432811_122238709652100475_6294334401390722043_n-w1200.webp"
+        },
+        {
+          "file": "693707621_122238710162100475_1241599806463965310_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/693707621_122238710162100475_1241599806463965310_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 221517,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/693707621_122238710162100475_1241599806463965310_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/693707621_122238710162100475_1241599806463965310_n-w1200.webp"
+        },
+        {
+          "file": "694098489_122238710246100475_1719073646236473205_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/694098489_122238710246100475_1719073646236473205_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 227945,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/694098489_122238710246100475_1719073646236473205_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/694098489_122238710246100475_1719073646236473205_n-w1200.webp"
+        },
+        {
+          "file": "694472634_122238709994100475_1082245733353923990_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/694472634_122238709994100475_1082245733353923990_n.jpg",
+          "width": 2048,
+          "height": 1534,
+          "orientation": "landscape",
+          "bytes": 166926,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/694472634_122238709994100475_1082245733353923990_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/694472634_122238709994100475_1082245733353923990_n-w1200.webp"
+        },
+        {
+          "file": "694649495_122238709862100475_6449788254701612064_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/694649495_122238709862100475_6449788254701612064_n.jpg",
+          "width": 1534,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 242315,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/694649495_122238709862100475_6449788254701612064_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/694649495_122238709862100475_6449788254701612064_n-w1200.webp"
+        },
+        {
+          "file": "695180886_122238710204100475_1453222309630210369_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/695180886_122238710204100475_1453222309630210369_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 233402,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/695180886_122238710204100475_1453222309630210369_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/695180886_122238710204100475_1453222309630210369_n-w1200.webp"
+        },
+        {
+          "file": "695472760_122238710036100475_4150951264844162265_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/695472760_122238710036100475_4150951264844162265_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 283705,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/695472760_122238710036100475_4150951264844162265_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/695472760_122238710036100475_4150951264844162265_n-w1200.webp"
+        },
+        {
+          "file": "696075564_122238709778100475_5158449291797049003_n.jpg",
+          "src": "/collections/power-of-christ-9th-anniversary/696075564_122238709778100475_5158449291797049003_n.jpg",
+          "width": 1920,
+          "height": 1080,
+          "orientation": "landscape",
+          "bytes": 186401,
+          "thumb": "/optimized/power-of-christ-9th-anniversary/696075564_122238709778100475_5158449291797049003_n-w480.webp",
+          "medium": "/optimized/power-of-christ-9th-anniversary/696075564_122238709778100475_5158449291797049003_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "templong-tipanan",
+      "title": "Templong Tipanan",
+      "count": 6,
+      "cover": {
+        "src": "/collections/templong-tipanan/661030061_122235380252100475_1471382519615702582_n.jpg",
+        "thumb": "/optimized/templong-tipanan/661030061_122235380252100475_1471382519615702582_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "660749850_122235380198100475_1613547361638899842_n.jpg",
+          "src": "/collections/templong-tipanan/660749850_122235380198100475_1613547361638899842_n.jpg",
+          "width": 2048,
+          "height": 921,
+          "orientation": "landscape",
+          "bytes": 215506,
+          "thumb": "/optimized/templong-tipanan/660749850_122235380198100475_1613547361638899842_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/660749850_122235380198100475_1613547361638899842_n-w1200.webp"
+        },
+        {
+          "file": "661030061_122235380252100475_1471382519615702582_n.jpg",
+          "src": "/collections/templong-tipanan/661030061_122235380252100475_1471382519615702582_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 610665,
+          "thumb": "/optimized/templong-tipanan/661030061_122235380252100475_1471382519615702582_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/661030061_122235380252100475_1471382519615702582_n-w1200.webp"
+        },
+        {
+          "file": "661075579_122235380294100475_7258247815619769886_n.jpg",
+          "src": "/collections/templong-tipanan/661075579_122235380294100475_7258247815619769886_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 638276,
+          "thumb": "/optimized/templong-tipanan/661075579_122235380294100475_7258247815619769886_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/661075579_122235380294100475_7258247815619769886_n-w1200.webp"
+        },
+        {
+          "file": "661574369_122235380336100475_5285807486352320371_n.jpg",
+          "src": "/collections/templong-tipanan/661574369_122235380336100475_5285807486352320371_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 574486,
+          "thumb": "/optimized/templong-tipanan/661574369_122235380336100475_5285807486352320371_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/661574369_122235380336100475_5285807486352320371_n-w1200.webp"
+        },
+        {
+          "file": "662313324_122235380384100475_7310189347459210718_n.jpg",
+          "src": "/collections/templong-tipanan/662313324_122235380384100475_7310189347459210718_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 542442,
+          "thumb": "/optimized/templong-tipanan/662313324_122235380384100475_7310189347459210718_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/662313324_122235380384100475_7310189347459210718_n-w1200.webp"
+        },
+        {
+          "file": "663122585_122235380156100475_6752915615176064581_n.jpg",
+          "src": "/collections/templong-tipanan/663122585_122235380156100475_6752915615176064581_n.jpg",
+          "width": 2048,
+          "height": 922,
+          "orientation": "landscape",
+          "bytes": 135504,
+          "thumb": "/optimized/templong-tipanan/663122585_122235380156100475_6752915615176064581_n-w480.webp",
+          "medium": "/optimized/templong-tipanan/663122585_122235380156100475_6752915615176064581_n-w1200.webp"
+        }
+      ]
+    },
+    {
+      "slug": "thanks-giving-2026",
+      "title": "Thanks Giving 2026",
+      "count": 21,
+      "cover": {
+        "src": "/collections/thanks-giving-2026/691330336_122238707402100475_8160779721338984238_n.jpg",
+        "thumb": "/optimized/thanks-giving-2026/691330336_122238707402100475_8160779721338984238_n-w480.webp",
+        "width": 2048,
+        "height": 1536
+      },
+      "images": [
+        {
+          "file": "691066992_122238707264100475_284743030989219446_n.jpg",
+          "src": "/collections/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 400801,
+          "thumb": "/optimized/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n-w1200.webp"
+        },
+        {
+          "file": "691083550_122238707534100475_5397881002819699405_n.jpg",
+          "src": "/collections/thanks-giving-2026/691083550_122238707534100475_5397881002819699405_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 312675,
+          "thumb": "/optimized/thanks-giving-2026/691083550_122238707534100475_5397881002819699405_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691083550_122238707534100475_5397881002819699405_n-w1200.webp"
+        },
+        {
+          "file": "691330336_122238707402100475_8160779721338984238_n.jpg",
+          "src": "/collections/thanks-giving-2026/691330336_122238707402100475_8160779721338984238_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 487124,
+          "thumb": "/optimized/thanks-giving-2026/691330336_122238707402100475_8160779721338984238_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691330336_122238707402100475_8160779721338984238_n-w1200.webp"
+        },
+        {
+          "file": "691529072_122238707078100475_7158649293413562528_n.jpg",
+          "src": "/collections/thanks-giving-2026/691529072_122238707078100475_7158649293413562528_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 669115,
+          "thumb": "/optimized/thanks-giving-2026/691529072_122238707078100475_7158649293413562528_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691529072_122238707078100475_7158649293413562528_n-w1200.webp"
+        },
+        {
+          "file": "691530251_122238706988100475_4710939898890489849_n.jpg",
+          "src": "/collections/thanks-giving-2026/691530251_122238706988100475_4710939898890489849_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 377792,
+          "thumb": "/optimized/thanks-giving-2026/691530251_122238706988100475_4710939898890489849_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691530251_122238706988100475_4710939898890489849_n-w1200.webp"
+        },
+        {
+          "file": "691538011_122238707846100475_8930193043875917554_n.jpg",
+          "src": "/collections/thanks-giving-2026/691538011_122238707846100475_8930193043875917554_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 245763,
+          "thumb": "/optimized/thanks-giving-2026/691538011_122238707846100475_8930193043875917554_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691538011_122238707846100475_8930193043875917554_n-w1200.webp"
+        },
+        {
+          "file": "691549629_122238707444100475_4391196848205159308_n.jpg",
+          "src": "/collections/thanks-giving-2026/691549629_122238707444100475_4391196848205159308_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 178634,
+          "thumb": "/optimized/thanks-giving-2026/691549629_122238707444100475_4391196848205159308_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691549629_122238707444100475_4391196848205159308_n-w1200.webp"
+        },
+        {
+          "file": "691697682_122238707036100475_8960679970027337602_n.jpg",
+          "src": "/collections/thanks-giving-2026/691697682_122238707036100475_8960679970027337602_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 514607,
+          "thumb": "/optimized/thanks-giving-2026/691697682_122238707036100475_8960679970027337602_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691697682_122238707036100475_8960679970027337602_n-w1200.webp"
+        },
+        {
+          "file": "691706080_122238706940100475_3226018681934680211_n.jpg",
+          "src": "/collections/thanks-giving-2026/691706080_122238706940100475_3226018681934680211_n.jpg",
+          "width": 442,
+          "height": 590,
+          "orientation": "portrait",
+          "bytes": 34153,
+          "thumb": "/optimized/thanks-giving-2026/691706080_122238706940100475_3226018681934680211_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691706080_122238706940100475_3226018681934680211_n-w1200.webp"
+        },
+        {
+          "file": "691723372_122238707222100475_1975367056012324921_n.jpg",
+          "src": "/collections/thanks-giving-2026/691723372_122238707222100475_1975367056012324921_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 287049,
+          "thumb": "/optimized/thanks-giving-2026/691723372_122238707222100475_1975367056012324921_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691723372_122238707222100475_1975367056012324921_n-w1200.webp"
+        },
+        {
+          "file": "691771796_122238707492100475_5322524571245093278_n.jpg",
+          "src": "/collections/thanks-giving-2026/691771796_122238707492100475_5322524571245093278_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 408824,
+          "thumb": "/optimized/thanks-giving-2026/691771796_122238707492100475_5322524571245093278_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691771796_122238707492100475_5322524571245093278_n-w1200.webp"
+        },
+        {
+          "file": "691774122_122238707312100475_5716481900039085303_n.jpg",
+          "src": "/collections/thanks-giving-2026/691774122_122238707312100475_5716481900039085303_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 397930,
+          "thumb": "/optimized/thanks-giving-2026/691774122_122238707312100475_5716481900039085303_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691774122_122238707312100475_5716481900039085303_n-w1200.webp"
+        },
+        {
+          "file": "691821473_122238707756100475_5651066848063173825_n.jpg",
+          "src": "/collections/thanks-giving-2026/691821473_122238707756100475_5651066848063173825_n.jpg",
+          "width": 2048,
+          "height": 1534,
+          "orientation": "landscape",
+          "bytes": 414054,
+          "thumb": "/optimized/thanks-giving-2026/691821473_122238707756100475_5651066848063173825_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691821473_122238707756100475_5651066848063173825_n-w1200.webp"
+        },
+        {
+          "file": "691842611_122238707630100475_2268054851216608948_n.jpg",
+          "src": "/collections/thanks-giving-2026/691842611_122238707630100475_2268054851216608948_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 384323,
+          "thumb": "/optimized/thanks-giving-2026/691842611_122238707630100475_2268054851216608948_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/691842611_122238707630100475_2268054851216608948_n-w1200.webp"
+        },
+        {
+          "file": "692147613_122238707582100475_8493926865861319535_n.jpg",
+          "src": "/collections/thanks-giving-2026/692147613_122238707582100475_8493926865861319535_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 500610,
+          "thumb": "/optimized/thanks-giving-2026/692147613_122238707582100475_8493926865861319535_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/692147613_122238707582100475_8493926865861319535_n-w1200.webp"
+        },
+        {
+          "file": "694288554_122238707804100475_5422027080637875843_n.jpg",
+          "src": "/collections/thanks-giving-2026/694288554_122238707804100475_5422027080637875843_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 429833,
+          "thumb": "/optimized/thanks-giving-2026/694288554_122238707804100475_5422027080637875843_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/694288554_122238707804100475_5422027080637875843_n-w1200.webp"
+        },
+        {
+          "file": "694715918_122238707174100475_7938756646926692961_n.jpg",
+          "src": "/collections/thanks-giving-2026/694715918_122238707174100475_7938756646926692961_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 434143,
+          "thumb": "/optimized/thanks-giving-2026/694715918_122238707174100475_7938756646926692961_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/694715918_122238707174100475_7938756646926692961_n-w1200.webp"
+        },
+        {
+          "file": "695048302_122238707714100475_4719142798543737794_n.jpg",
+          "src": "/collections/thanks-giving-2026/695048302_122238707714100475_4719142798543737794_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 272346,
+          "thumb": "/optimized/thanks-giving-2026/695048302_122238707714100475_4719142798543737794_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/695048302_122238707714100475_4719142798543737794_n-w1200.webp"
+        },
+        {
+          "file": "695800145_122238707354100475_4207778476830497478_n.jpg",
+          "src": "/collections/thanks-giving-2026/695800145_122238707354100475_4207778476830497478_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 289039,
+          "thumb": "/optimized/thanks-giving-2026/695800145_122238707354100475_4207778476830497478_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/695800145_122238707354100475_4207778476830497478_n-w1200.webp"
+        },
+        {
+          "file": "695814745_122238707672100475_6247357735475632546_n.jpg",
+          "src": "/collections/thanks-giving-2026/695814745_122238707672100475_6247357735475632546_n.jpg",
+          "width": 1536,
+          "height": 2048,
+          "orientation": "portrait",
+          "bytes": 269787,
+          "thumb": "/optimized/thanks-giving-2026/695814745_122238707672100475_6247357735475632546_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/695814745_122238707672100475_6247357735475632546_n-w1200.webp"
+        },
+        {
+          "file": "695852181_122238707126100475_4269124531663556086_n.jpg",
+          "src": "/collections/thanks-giving-2026/695852181_122238707126100475_4269124531663556086_n.jpg",
+          "width": 2048,
+          "height": 1536,
+          "orientation": "landscape",
+          "bytes": 460974,
+          "thumb": "/optimized/thanks-giving-2026/695852181_122238707126100475_4269124531663556086_n-w480.webp",
+          "medium": "/optimized/thanks-giving-2026/695852181_122238707126100475_4269124531663556086_n-w1200.webp"
+        }
+      ]
+    }
+  ],
+  "siteMeta": {
+    "hero": {
+      "src": "/collections/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n.jpg",
+      "medium": "/optimized/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n-w1200.webp",
+      "thumb": "/optimized/banner-mission-lupang-banal/861323996_122255220284100475_9122397263281333704_n-w480.webp",
+      "width": 2048,
+      "height": 1536,
+      "collectionSlug": "banner-mission-lupang-banal"
+    },
+    "aboutImage": {
+      "file": "691066992_122238707264100475_284743030989219446_n.jpg",
+      "src": "/collections/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n.jpg",
+      "width": 1536,
+      "height": 2048,
+      "orientation": "portrait",
+      "bytes": 400801,
+      "thumb": "/optimized/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n-w480.webp",
+      "medium": "/optimized/thanks-giving-2026/691066992_122238707264100475_284743030989219446_n-w1200.webp"
+    },
+    "highlightSlugs": [
+      "banner-mission-lupang-banal",
+      "christmas-spiritual-celebration",
+      "holyweek-mission-2026",
+      "power-of-christ-9th-anniversary",
+      "kabataan-lingkod-ng-diyos",
+      "centro-patos-mission"
+    ],
+    "generatedAt": "2026-10-30T03:36:49.682Z"
+  }
+}

@@ -1,0 +1,86 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-gold: #b58a35;
+  --color-royal: #174d83;
+  --color-navy: #142c47;
+  --color-ivory: #faf8f2;
+  --color-pure: #ffffff;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Source Sans 3', system-ui, sans-serif;
+
+  --animate-fade-up: fade-up 0.7s ease-out both;
+  --animate-shimmer: shimmer 2.4s ease-in-out infinite;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 0.65;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--color-ivory);
+  color: var(--color-navy);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-gold) 35%, white);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.gold-rule {
+  height: 2px;
+  width: 4rem;
+  background: linear-gradient(90deg, var(--color-gold), transparent);
+}
+
+.hero-ken-burns img {
+  animation: ken-burns 22s ease-in-out infinite alternate;
+}
+
+@keyframes ken-burns {
+  from {
+    transform: scale(1.02);
+  }
+  to {
+    transform: scale(1.08);
+  }
+}
+
+.image-reveal {
+  background: linear-gradient(
+    110deg,
+    color-mix(in srgb, var(--color-navy) 6%, white) 8%,
+    color-mix(in srgb, var(--color-navy) 3%, white) 18%,
+    color-mix(in srgb, var(--color-navy) 6%, white) 33%
+  );
+  background-size: 200% 100%;
+  animation: var(--animate-shimmer);
+}

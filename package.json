@@ -1,0 +1,34 @@
+{
+  "name": "centro-tinig-ng-arkanghel",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "logo": "node scripts/process-logo.mjs",
+    "og": "node scripts/generate-og-image.mjs",
+    "social": "npm run logo && npm run og",
+    "organize": "node scripts/organize-collections.mjs",
+    "generate": "node scripts/generate-collections.mjs",
+    "dev": "vite",
+    "sync": "npm run organize && npm run generate",
+    "prebuild": "npm run organize && npm run generate && npm run social",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.24",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.16",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "sharp": "^0.34.4",
+    "tailwindcss": "^4.1.16",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.12"
+  }
+}
