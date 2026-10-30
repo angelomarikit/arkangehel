@@ -5,7 +5,7 @@ import { ChurchLogo } from './ChurchLogo';
 const links = [
   { to: '/', label: 'Home' },
   { to: '/about', label: 'About' },
-  { to: '/ministries', label: 'Ministries' },
+  { to: '/healing', label: 'Healing' },
   { to: '/missions', label: 'Missions' },
   { to: '/community', label: 'Community' },
   { to: '/gallery', label: 'Gallery' },
@@ -16,7 +16,7 @@ export function SiteHeader() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 border-b border-navy/5 bg-ivory/90 backdrop-blur-md">
+    <header className="theme-header sticky top-0 z-50 backdrop-blur-md">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-2.5 sm:px-6">
         <Link to="/" onClick={() => setOpen(false)} className="shrink-0">
           <ChurchLogo showText={false} />
@@ -29,7 +29,9 @@ export function SiteHeader() {
               to={l.to}
               className={({ isActive }) =>
                 `text-[13px] font-medium tracking-wide transition xl:text-sm ${
-                  isActive ? 'text-royal' : 'text-navy/70 hover:text-royal'
+                  isActive
+                    ? 'font-semibold text-gold-deep'
+                    : 'text-navy/70 hover:text-gold-deep'
                 }`
               }
               end={l.to === '/'}

@@ -29,7 +29,7 @@ export function CollectionCard({ collection, index = 0 }: CollectionCardProps) {
                 alt=""
                 className="h-full transition duration-700 group-hover:scale-[1.03]"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-navy/75 via-navy/10 to-transparent" />
+              <div className="absolute inset-0 bg-gradient-to-t from-navy/75 via-gold/15 to-gold-light/10" />
             </>
           ) : (
             <div className="flex h-full flex-col items-center justify-center gap-2 bg-gradient-to-br from-ivory to-navy/5 p-6 text-center">

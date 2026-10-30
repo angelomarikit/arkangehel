@@ -30,7 +30,7 @@ export function CommunityPage() {
       />
 
       <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-20">
-        <div className="flex flex-col items-center gap-6 rounded-2xl bg-navy px-6 py-12 text-center sm:px-12">
+        <div className="theme-section-deep flex flex-col items-center gap-6 rounded-2xl px-6 py-12 text-center sm:px-12">
           <ChurchLogo variant="light" size="feature" showText={false} />
           <p className="max-w-2xl text-lg leading-relaxed text-ivory/85">
             These photographs are drawn from missions, celebrations, and weekly fellowship — presented in an

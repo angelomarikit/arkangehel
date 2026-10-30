@@ -1,12 +1,12 @@
-import { Route, Routes } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 import { Layout } from './components/Layout';
 import { AboutPage } from './pages/AboutPage';
 import { CollectionPage } from './pages/CollectionPage';
 import { CommunityPage } from './pages/CommunityPage';
 import { ContactPage } from './pages/ContactPage';
 import { GalleryIndexPage } from './pages/GalleryIndexPage';
+import { HealingPage } from './pages/HealingPage';
 import { HomePage } from './pages/HomePage';
-import { MinistriesPage } from './pages/MinistriesPage';
 import { MissionsPage } from './pages/MissionsPage';
 
 export default function App() {
@@ -15,7 +15,8 @@ export default function App() {
       <Route element={<Layout />}>
         <Route index element={<HomePage />} />
         <Route path="about" element={<AboutPage />} />
-        <Route path="ministries" element={<MinistriesPage />} />
+        <Route path="healing" element={<HealingPage />} />
+        <Route path="ministries" element={<Navigate to="/healing" replace />} />
         <Route path="missions" element={<MissionsPage />} />
         <Route path="community" element={<CommunityPage />} />
         <Route path="gallery" element={<GalleryIndexPage />} />

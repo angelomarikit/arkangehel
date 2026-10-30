@@ -4,11 +4,12 @@ import { ChurchLogo } from '../components/ChurchLogo';
 import { CollectionCard } from '../components/CollectionCard';
 import { LazyImage } from '../components/LazyImage';
 import { SectionHeading } from '../components/SectionHeading';
+import { ORGANIZATION_TAGLINE } from '../content/visionMission';
 import { collections, pickHighlightPhotos, siteMeta } from '../lib/collections';
 
 const quickLinks = [
   { to: '/about', title: 'About us', blurb: 'Who we are and how we share our story through real photography.' },
-  { to: '/ministries', title: 'Ministries', blurb: 'Youth, outreach, and service albums from our folders.' },
+  { to: '/healing', title: 'Healing', blurb: 'CTNA healing modalities and spiritual services.' },
   { to: '/missions', title: 'Missions', blurb: 'Mission trips, banner events, and liturgical seasons.' },
   { to: '/community', title: 'Community', blurb: 'Fellowship highlights from across our galleries.' },
   { to: '/gallery', title: 'Gallery', blurb: 'Full-screen viewing with every collection.' },
@@ -34,10 +35,12 @@ export function HomePage() {
                 imgClassName="object-cover"
               />
             </div>
-            <div className="absolute inset-0 bg-gradient-to-r from-navy/94 via-navy/78 to-navy/45" />
+            <div className="theme-hero-overlay absolute inset-0" />
+            <div className="theme-blend-art theme-blend-art-hero absolute inset-0" aria-hidden />
+            <div className="theme-banner-glow absolute inset-0 mix-blend-soft-light opacity-80" />
           </>
         ) : (
-          <div className="absolute inset-0 bg-gradient-to-br from-ivory via-ivory to-royal/10" />
+          <div className="absolute inset-0 bg-gradient-to-br from-light-glow via-ivory to-sky/25" />
         )}
 
         <div className="relative mx-auto grid max-w-6xl items-center gap-10 px-4 py-20 sm:px-6 lg:grid-cols-[1fr_1.1fr] lg:py-28">
@@ -53,11 +56,11 @@ export function HomePage() {
             <motion.p
               initial={{ opacity: 0, y: 12 }}
               animate={{ opacity: 1, y: 0 }}
-              className="text-xs font-semibold uppercase tracking-[0.3em] text-gold"
+              className="text-gold-glow text-xs font-bold uppercase tracking-[0.3em] text-gold-light"
             >
-              Faith · Community · Mission
-            </motion.p>
-            <motion.h1
+            {ORGANIZATION_TAGLINE}
+          </motion.p>
+          <motion.h1
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.06 }}
@@ -73,32 +76,32 @@ export function HomePage() {
               transition={{ delay: 0.12 }}
               className={`mt-5 max-w-xl text-lg leading-relaxed ${hero ? 'text-ivory/85' : 'text-navy/75'}`}
             >
-              A welcoming church organization — documented through our own photographs, presented with care and
-              dignity.
-            </motion.p>
-            <motion.div
-              initial={{ opacity: 0, y: 16 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: 0.18 }}
-              className="mt-8 flex flex-wrap gap-3"
+            A compassionate center of holistic healing, prayer, and wellness — serving as humble instruments
+              of God&apos;s grace.
+          </motion.p>
+          <motion.div
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.18 }}
+            className="mt-8 flex flex-wrap gap-3"
+          >
+            <Link
+              to="/about"
+              className="rounded-full bg-gold px-7 py-3 text-sm font-semibold tracking-wide text-navy transition hover:bg-gold/90"
             >
-              <Link
-                to="/gallery"
-                className="rounded-full bg-gold px-7 py-3 text-sm font-semibold tracking-wide text-navy transition hover:bg-gold/90"
-              >
-                View gallery
-              </Link>
-              <Link
-                to="/about"
-                className={`rounded-full border px-7 py-3 text-sm font-semibold tracking-wide transition ${
-                  hero
-                    ? 'border-ivory/40 text-ivory hover:border-gold hover:text-gold'
-                    : 'border-navy/20 text-navy hover:border-royal'
-                }`}
-              >
-                About us
-              </Link>
-            </motion.div>
+              Vision &amp; mission
+            </Link>
+            <Link
+              to="/gallery"
+              className={`rounded-full border px-7 py-3 text-sm font-semibold tracking-wide transition ${
+                hero
+                  ? 'border-ivory/40 text-ivory hover:border-gold hover:text-gold'
+                  : 'border-navy/20 text-navy hover:border-royal'
+              }`}
+            >
+              View gallery
+            </Link>
+          </motion.div>
           </div>
         </div>
       </section>
@@ -107,7 +110,7 @@ export function HomePage() {
         <SectionHeading
           eyebrow="Explore"
           title="Seven pages, one community"
-          description="Navigate ministries, missions, community highlights, the full gallery, and contact — all built from our real photo folders."
+          description="Navigate healing, missions, community highlights, the full gallery, and contact."
         />
         <div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {quickLinks.map((item, i) => (
@@ -131,7 +134,7 @@ export function HomePage() {
         </div>
       </section>
 
-      <section className="bg-pure py-16 sm:py-20">
+      <section className="theme-panel-light py-16 sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
           <SectionHeading eyebrow="Featured" title="Recent collections" />
           <div className="mt-10 grid gap-6 md:grid-cols-3">
@@ -142,7 +145,7 @@ export function HomePage() {
         </div>
       </section>
 
-      <section className="bg-navy py-16 text-ivory sm:py-20">
+      <section className="theme-section-deep py-16 text-ivory sm:py-20">
         <div className="mx-auto max-w-6xl px-4 sm:px-6">
           <SectionHeading
             light

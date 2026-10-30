@@ -13,7 +13,7 @@ export function InfoCards({ items }: InfoCardsProps) {
       {items.map((item) => (
         <article
           key={item.title}
-          className="rounded-xl border border-navy/8 bg-pure p-6 shadow-sm ring-1 ring-navy/5"
+          className="theme-panel-light rounded-xl p-6 shadow-sm"
         >
           <div className="mb-3 h-1 w-10 rounded-full bg-gold" />
           <h3 className="font-display text-xl font-semibold text-navy">{item.title}</h3>

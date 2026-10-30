@@ -20,7 +20,11 @@ export function SectionHeading({
   return (
     <div className={`flex flex-col gap-3 ${alignClass}`}>
       {eyebrow && (
-        <p className="text-xs font-semibold uppercase tracking-[0.25em] text-gold">{eyebrow}</p>
+        <p
+          className={`text-xs font-bold uppercase tracking-[0.25em] ${light ? 'text-gold-light' : 'text-gold-deep'}`}
+        >
+          {eyebrow}
+        </p>
       )}
       <h2 className={`font-display text-4xl font-semibold leading-tight sm:text-5xl ${titleColor}`}>
         {title}

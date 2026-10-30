@@ -5,6 +5,8 @@ import { LazyImage } from '../components/LazyImage';
 import { PageBanner } from '../components/PageBanner';
 import { PageStats } from '../components/PageStats';
 import { SectionHeading } from '../components/SectionHeading';
+import { VisionMissionSection } from '../components/VisionMissionSection';
+import { ORGANIZATION_TAGLINE } from '../content/visionMission';
 import { liturgicalCollections, missionCollections } from '../lib/ministries';
 import { siteMeta } from '../lib/collections';
 import { siteStats } from '../lib/pageStats';
@@ -31,7 +33,7 @@ export function MissionsPage() {
     <>
       <PageBanner
         title="Missions & celebrations"
-        subtitle="Banner missions, center outreaches, holy week, Christmas, thanksgiving, and anniversary albums."
+        subtitle={`${ORGANIZATION_TAGLINE} — mission albums, banner outreaches, liturgical seasons, and celebrations.`}
         image={bannerImg}
       />
       <PageStats
@@ -44,6 +46,8 @@ export function MissionsPage() {
       />
 
       <div className="mx-auto max-w-6xl space-y-16 px-4 py-14 sm:px-6 sm:py-20">
+        <VisionMissionSection compact showTagline={false} />
+
         <div>
           <SectionHeading
             eyebrow="Mission"
@@ -112,8 +116,8 @@ export function MissionsPage() {
 
         <p className="text-center text-sm text-navy/70">
           Youth and herbal outreach albums live under{' '}
-          <Link to="/ministries" className="font-semibold text-royal hover:text-gold">
-            Ministries
+          <Link to="/healing" className="font-semibold text-royal hover:text-gold">
+            Healing
           </Link>
           .
         </p>
