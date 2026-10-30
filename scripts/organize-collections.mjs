@@ -6,6 +6,24 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
 const collectionsRoot = path.join(root, 'public', 'collections');
 
+/** Local-only: move album folders from project root into public/collections. */
+if (process.env.VERCEL === '1' || process.env.CI === 'true') {
+  console.log('Skipping organize-collections (use committed public/collections/ on deploy).');
+  process.exit(0);
+}
+
+const SKIP_DIRS = new Set([
+  'node_modules',
+  'public',
+  'src',
+  'scripts',
+  'dist',
+  '.git',
+  '.vercel',
+  '.github',
+  '.cursor',
+]);
+
 const slugify = (name) =>
   name
     .toLowerCase()
@@ -40,15 +58,19 @@ const moved = [];
 for (const entry of entries) {
   if (!entry.isDirectory()) continue;
   const name = entry.name;
-  if (['node_modules', 'public', 'src', 'scripts', 'dist', '.git'].includes(name)) continue;
+  if (name.startsWith('.') || SKIP_DIRS.has(name)) continue;
 
   const slug = slugify(name);
+  if (!slug) continue;
+
   const dest = path.join(collectionsRoot, slug);
   const src = path.join(root, name);
 
   if (!fs.existsSync(dest)) {
     fs.mkdirSync(dest, { recursive: true });
   }
+
+  let movedFromFolder = 0;
 
   for (const file of fs.readdirSync(src)) {
     const ext = path.extname(file).toLowerCase();
@@ -63,14 +85,21 @@ for (const entry of entries) {
       continue;
     }
     fs.renameSync(srcPath, destPath);
+    movedFromFolder += 1;
   }
 
   const remaining = fs.readdirSync(src).filter((f) => IMAGE_EXT.has(path.extname(f).toLowerCase()));
-  if (remaining.length === 0) {
-    fs.rmdirSync(src);
+  if (remaining.length === 0 && movedFromFolder > 0) {
+    try {
+      if (fs.readdirSync(src).length === 0) fs.rmdirSync(src);
+    } catch {
+      /* leave folder if not empty (e.g. stray config files) */
+    }
   }
 
-  moved.push({ from: name, slug, title: titleCase(name) });
+  if (movedFromFolder > 0 || fs.readdirSync(dest).some((f) => IMAGE_EXT.has(path.extname(f).toLowerCase()))) {
+    moved.push({ from: name, slug, title: titleCase(name) });
+  }
 }
 
 const manifestPath = path.join(root, 'scripts', 'collection-sources.json');
