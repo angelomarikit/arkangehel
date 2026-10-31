@@ -20,10 +20,13 @@ async function logoWithAlpha(inputPath) {
   const pixels = Buffer.from(data);
 
   const isBackground = (r, g, b) => {
+    const l = 0.299 * r + 0.587 * g + 0.114 * b;
     const max = Math.max(r, g, b);
     const min = Math.min(r, g, b);
-    if (min >= 210 && max >= 228 && max - min < 30) return true;
-    if (r >= 245 && g >= 245 && b >= 245) return true;
+    const chroma = max - min;
+    if (l >= 248) return true;
+    if (l >= 222 && chroma < 42) return true;
+    if (min >= 210 && max >= 228 && chroma < 30) return true;
     return false;
   };
 

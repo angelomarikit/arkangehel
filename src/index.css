@@ -219,6 +219,38 @@ body {
   text-shadow: 0 0 24px color-mix(in srgb, var(--color-gold) 50%, transparent);
 }
 
+.hero-logo-badge {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem;
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle at 50% 45%,
+    color-mix(in srgb, var(--color-navy) 92%, transparent) 0%,
+    color-mix(in srgb, var(--color-navy) 72%, transparent) 52%,
+    transparent 72%
+  );
+  box-shadow:
+    0 0 0 3px color-mix(in srgb, var(--color-gold) 65%, transparent),
+    0 0 0 6px color-mix(in srgb, var(--color-navy) 55%, transparent),
+    0 16px 48px rgba(0, 0, 0, 0.55);
+}
+
+.hero-logo-badge::before {
+  content: '';
+  position: absolute;
+  inset: 8%;
+  border-radius: 9999px;
+  background: radial-gradient(
+    circle,
+    color-mix(in srgb, var(--color-gold-light) 22%, transparent) 0%,
+    transparent 65%
+  );
+  pointer-events: none;
+}
+
 .hero-ken-burns img {
   animation: ken-burns 22s ease-in-out infinite alternate;
 }

@@ -46,20 +46,29 @@ export function HomePage() {
           <div className="absolute inset-0 bg-gradient-to-br from-light-glow via-ivory to-sky/25" />
         )}
 
-        <div className="relative mx-auto grid max-w-6xl items-center gap-10 px-4 py-20 sm:px-6 lg:grid-cols-[1fr_1.1fr] lg:py-28">
+        <div
+          className={`relative mx-auto flex max-w-6xl flex-col px-4 py-16 sm:px-6 sm:py-20 lg:py-24 ${
+            hero ? 'items-center text-center' : 'items-start lg:items-center lg:text-center'
+          }`}
+        >
           <motion.div
-            initial={{ opacity: 0, x: -16 }}
-            animate={{ opacity: 1, x: 0 }}
-            className={`flex flex-col items-start ${hero ? '' : 'lg:items-center'}`}
+            initial={{ opacity: 0, y: -12 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="mb-8 sm:mb-10"
           >
-            <ChurchLogo variant={hero ? 'light' : 'dark'} size="hero" showText={false} />
+            <ChurchLogo
+              variant={hero ? 'light' : 'dark'}
+              size="hero"
+              showText={false}
+              presentation={hero ? 'banner' : 'default'}
+            />
           </motion.div>
 
-          <div>
+          <div className={hero ? 'max-w-3xl' : 'max-w-2xl'}>
             <motion.p
               initial={{ opacity: 0, y: 12 }}
               animate={{ opacity: 1, y: 0 }}
-              className="text-gold-glow max-w-2xl text-[1.24rem] font-bold uppercase leading-snug tracking-[0.1em] text-gold-light sm:text-2xl sm:tracking-[0.14em] md:text-[1.75rem]"
+              className="text-gold-glow mx-auto text-[1.24rem] font-bold uppercase leading-snug tracking-[0.1em] text-gold-light sm:text-2xl sm:tracking-[0.14em] md:text-[1.75rem]"
             >
               {HERO_MINISTRY_LINE}
             </motion.p>
@@ -68,7 +77,7 @@ export function HomePage() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.06 }}
               className={`font-display mt-4 text-3xl font-semibold leading-[1.08] sm:text-5xl lg:text-6xl ${
-                hero ? 'text-ivory' : 'text-navy'
+                hero ? 'text-ivory drop-shadow-[0_2px_16px_rgba(0,0,0,0.45)]' : 'text-navy'
               }`}
             >
               {SITE_NAME}
@@ -77,34 +86,36 @@ export function HomePage() {
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.12 }}
-              className={`mt-5 max-w-xl text-lg leading-relaxed ${hero ? 'text-ivory/85' : 'text-navy/75'}`}
-            >
-            A compassionate center of holistic healing, prayer, and wellness — serving as humble instruments
-              of God&apos;s grace.
-          </motion.p>
-          <motion.div
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.18 }}
-            className="mt-8 flex flex-wrap gap-3"
-          >
-            <Link
-              to="/about"
-              className="rounded-full bg-gold px-7 py-3 text-sm font-semibold tracking-wide text-navy transition hover:bg-gold/90"
-            >
-              Vision &amp; mission
-            </Link>
-            <Link
-              to="/gallery"
-              className={`rounded-full border px-7 py-3 text-sm font-semibold tracking-wide transition ${
-                hero
-                  ? 'border-ivory/40 text-ivory hover:border-gold hover:text-gold'
-                  : 'border-navy/20 text-navy hover:border-royal'
+              className={`mx-auto mt-5 max-w-xl text-lg leading-relaxed ${
+                hero ? 'text-ivory/90 drop-shadow-[0_1px_10px_rgba(0,0,0,0.4)]' : 'text-navy/75'
               }`}
             >
-              View gallery
-            </Link>
-          </motion.div>
+              A compassionate center of holistic healing, prayer, and wellness — serving as humble instruments
+              of God&apos;s grace.
+            </motion.p>
+            <motion.div
+              initial={{ opacity: 0, y: 16 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.18 }}
+              className={`mt-8 flex flex-wrap gap-3 ${hero ? 'justify-center' : ''}`}
+            >
+              <Link
+                to="/about"
+                className="rounded-full bg-gold px-7 py-3 text-sm font-semibold tracking-wide text-navy shadow-lg transition hover:bg-gold/90"
+              >
+                Vision &amp; mission
+              </Link>
+              <Link
+                to="/gallery"
+                className={`rounded-full border px-7 py-3 text-sm font-semibold tracking-wide transition ${
+                  hero
+                    ? 'border-ivory/50 bg-navy/35 text-ivory backdrop-blur-sm hover:border-gold hover:text-gold'
+                    : 'border-navy/20 text-navy hover:border-royal'
+                }`}
+              >
+                View gallery
+              </Link>
+            </motion.div>
           </div>
         </div>
       </section>

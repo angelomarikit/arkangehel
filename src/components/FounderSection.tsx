@@ -47,6 +47,11 @@ export function FounderSection() {
               <p key={paragraph.slice(0, 48)}>{paragraph}</p>
             ))}
           </div>
+          <blockquote className="mt-8 border-l-4 border-gold/70 pl-5">
+            <p className="font-display text-lg italic leading-relaxed text-navy">
+              &ldquo;{founder.quote}&rdquo;
+            </p>
+          </blockquote>
           <p className="mt-8">
             <Link
               to="/healing"
