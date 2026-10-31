@@ -4,11 +4,11 @@ import { PageBanner } from '../components/PageBanner';
 import { SectionHeading } from '../components/SectionHeading';
 import {
   healingModalities,
+  healingPageIntro,
   otherServicesBrief,
   spiritualServices,
 } from '../content/healing';
 import { ORGANIZATION_TAGLINE } from '../content/visionMission';
-import { SITE_NAME } from '../lib/brand';
 import { collections, siteMeta } from '../lib/collections';
 
 export function HealingPage() {
@@ -20,30 +20,44 @@ export function HealingPage() {
     <>
       <PageBanner
         title="Healing"
-        subtitle={`${ORGANIZATION_TAGLINE} — healing modalities and spiritual services of CTNA (${SITE_NAME}).`}
+        subtitle={`${ORGANIZATION_TAGLINE} — ${healingPageIntro.ministryLine}`}
         image={siteMeta.aboutImage}
       />
 
       <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 sm:py-20">
-        <SectionHeading
-          eyebrow="CTNA"
-          title="Healing modalities of CTNA"
-          description="Holistic and spiritual care offered in faith — all healing is recognized as a gift from God alone."
-        />
+        <header className="max-w-3xl">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold-deep">CTNA</p>
+          <h2 className="font-display mt-2 text-3xl font-semibold text-navy sm:text-4xl">
+            {healingPageIntro.heading}
+          </h2>
+          <p className="mt-3 font-display text-lg font-semibold text-royal">{healingPageIntro.organization}</p>
+          <p className="mt-2 text-base leading-relaxed text-navy/75">{healingPageIntro.ministryLine}</p>
+          <p className="mt-4 text-sm leading-relaxed text-navy/65">{healingPageIntro.faithNote}</p>
+        </header>
 
-        <ol className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-14">
+          <SectionHeading title={healingPageIntro.servicesSection} />
+        </div>
+
+        <ol className="mt-10 grid gap-5 lg:grid-cols-2">
           {healingModalities.map((item) => (
             <li
               key={item.n}
-              className="flex gap-4 rounded-xl border border-navy/8 bg-pure p-5 shadow-sm ring-1 ring-navy/5 transition hover:border-gold/35"
+              className="flex gap-4 rounded-xl border border-navy/8 bg-pure p-6 shadow-sm ring-1 ring-navy/5 transition hover:border-gold/35"
             >
-              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-gold/50 bg-gold/20 font-display text-lg font-semibold text-gold-deep">
+              <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-gold/50 bg-gold/20 font-display text-lg font-semibold text-gold-deep">
                 {item.n}
               </span>
-              <div>
-                <h3 className="font-display text-lg font-semibold leading-snug text-navy">{item.title}</h3>
-                {item.note ? (
-                  <p className="mt-1 text-sm leading-relaxed text-navy/65">{item.note}</p>
+              <div className="min-w-0">
+                <h3 className="font-display text-lg font-semibold leading-snug text-navy">
+                  {item.title}
+                  {item.term ? (
+                    <span className="font-sans text-base font-medium text-navy/70"> ({item.term})</span>
+                  ) : null}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-navy/75">{item.description}</p>
+                {item.credit ? (
+                  <p className="mt-3 text-xs font-medium italic text-gold-deep/90">{item.credit}</p>
                 ) : null}
               </div>
             </li>
