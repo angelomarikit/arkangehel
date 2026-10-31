@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { ChurchLogo } from '../components/ChurchLogo';
 import { ContactDetails } from '../components/ContactDetails';
+import { MessagingChannels } from '../components/MessagingChannels';
 import { PageBanner } from '../components/PageBanner';
 import { SectionHeading } from '../components/SectionHeading';
 import { contact } from '../content/contact';
@@ -10,7 +11,7 @@ export function ContactPage() {
     <>
       <PageBanner
         title="Contact & connect"
-        subtitle="Visit us in Biñan, Laguna, call our Smart line, or message us on Facebook."
+        subtitle="Visit us in Biñan, Laguna — call, or message us on Viber, WhatsApp, or Telegram."
       />
       <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-24">
         <div className="grid gap-12 lg:grid-cols-2 lg:items-start">
@@ -36,9 +37,12 @@ export function ContactPage() {
             <ChurchLogo variant="light" size="hero" showText={false} className="justify-center" />
             <p className="mt-8 font-display text-2xl text-ivory">{contact.legalName}</p>
             <p className="mt-4 max-w-sm text-sm leading-relaxed text-ivory/75">{contact.addressOneLine}</p>
+            <div className="mt-8 w-full max-w-xs text-left">
+              <MessagingChannels variant="light" size="md" />
+            </div>
             <a
               href={`tel:${contact.phoneTel}`}
-              className="mt-6 rounded-full bg-gold px-6 py-2.5 text-sm font-semibold text-navy hover:bg-gold/90"
+              className="mt-8 rounded-full bg-gold px-6 py-2.5 text-sm font-semibold text-navy hover:bg-gold/90"
             >
               Call {contact.phoneDisplay}
             </a>

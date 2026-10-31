@@ -1,3 +1,4 @@
+import { SITE_NAME } from '../lib/brand';
 import type { GalleryImage } from '../types/gallery';
 
 type PageBannerProps = {
@@ -34,7 +35,7 @@ export function PageBanner({ title, subtitle, image }: PageBannerProps) {
       />
       <div className="relative z-10 mx-auto flex min-h-[min(42vh,420px)] max-w-6xl flex-col justify-center px-4 py-14 sm:px-6 sm:py-16">
         <p className="text-gold-glow text-xs font-bold uppercase tracking-[0.28em] text-gold-light">
-          Centro Tinig ng Arkanghel
+          {SITE_NAME}
         </p>
         <h1 className="font-display mt-3 max-w-3xl text-4xl font-semibold text-ivory sm:text-5xl">{title}</h1>
         {subtitle && <p className="mt-4 max-w-2xl text-lg leading-relaxed text-ivory/85">{subtitle}</p>}

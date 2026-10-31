@@ -71,7 +71,7 @@ const backgroundSvg = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width
   <rect width="${OG_W}" height="${OG_H}" fill="url(#bg)"/>
   <rect width="${OG_W}" height="${OG_H}" fill="url(#glow)"/>
   <text x="600" y="580" text-anchor="middle" fill="#FAF8F2" fill-opacity="0.85"
-    font-family="Georgia, serif" font-size="28" letter-spacing="0.12em">CENTRO TINIG NG ARKANGHEL</text>
+    font-family="Georgia, serif" font-size="24" letter-spacing="0.1em">CENTRO TINIG NG ARKANGHEL INC</text>
 </svg>`);
 
 const outJpg = path.join(root, 'public', 'og-image.jpg');

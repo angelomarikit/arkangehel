@@ -1,4 +1,5 @@
 import { contact } from '../content/contact';
+import { MessagingChannels } from './MessagingChannels';
 
 type ContactDetailsProps = {
   variant?: 'light' | 'dark';
@@ -8,8 +9,11 @@ type ContactDetailsProps = {
 export function ContactDetails({ variant = 'dark', className = '' }: ContactDetailsProps) {
   const label = variant === 'light' ? 'text-gold-light' : 'text-gold-deep';
   const text = variant === 'light' ? 'text-ivory/85' : 'text-navy/80';
-  const link = variant === 'light' ? 'text-ivory hover:text-gold' : 'text-royal hover:text-gold';
   const heading = variant === 'light' ? 'text-ivory' : 'text-navy';
+  const socialBtn =
+    variant === 'light'
+      ? 'border-ivory/20 bg-ivory/10'
+      : 'border-navy/10 bg-pure';
 
   return (
     <address className={`not-italic ${className}`}>
@@ -25,25 +29,21 @@ export function ContactDetails({ variant = 'dark', className = '' }: ContactDeta
         ))}
       </p>
 
-      <p className={`mt-5 text-xs font-semibold uppercase tracking-widest ${label}`}>CP</p>
-      <p className={`mt-2 text-sm ${text}`}>
-        {contact.phoneLabel}:{' '}
-        <a href={`tel:${contact.phoneTel}`} className={`font-semibold underline-offset-2 hover:underline ${link}`}>
-          {contact.phoneDisplay}
-        </a>
-      </p>
+      <div className="mt-5">
+        <MessagingChannels variant={variant} />
+      </div>
 
       <p className={`mt-5 text-xs font-semibold uppercase tracking-widest ${label}`}>Facebook</p>
-      <p className={`mt-2 text-sm ${text}`}>
-        <a
-          href={contact.facebookUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`font-semibold underline-offset-2 hover:underline ${link}`}
-        >
-          {contact.facebookName}
-        </a>
-      </p>
+      <a
+        href={contact.facebookUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        className={`group mt-3 flex h-12 w-12 items-center justify-center rounded-full border shadow-sm transition hover:-translate-y-0.5 hover:border-gold/50 hover:shadow-md ${socialBtn}`}
+        aria-label={`Follow ${contact.facebookName} on Facebook`}
+        title={contact.facebookName}
+      >
+        <img src="/icons/facebook.svg" alt="" className="h-6 w-6 object-contain" />
+      </a>
     </address>
   );
 }

@@ -8,6 +8,7 @@ import {
   spiritualServices,
 } from '../content/healing';
 import { ORGANIZATION_TAGLINE } from '../content/visionMission';
+import { SITE_NAME } from '../lib/brand';
 import { collections, siteMeta } from '../lib/collections';
 
 export function HealingPage() {
@@ -19,7 +20,7 @@ export function HealingPage() {
     <>
       <PageBanner
         title="Healing"
-        subtitle={`${ORGANIZATION_TAGLINE} — healing modalities and spiritual services of CTNA (Centro Tinig ng Arkanghel).`}
+        subtitle={`${ORGANIZATION_TAGLINE} — healing modalities and spiritual services of CTNA (${SITE_NAME}).`}
         image={siteMeta.aboutImage}
       />
 

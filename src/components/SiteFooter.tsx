@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { ContactDetails } from './ContactDetails';
 import { ChurchLogo } from './ChurchLogo';
 import { contact } from '../content/contact';
+import { ORGANIZATION_TAGLINE } from '../content/visionMission';
 
 export function SiteFooter() {
   return (
@@ -10,7 +11,7 @@ export function SiteFooter() {
         <div>
           <ChurchLogo variant="light" showText={false} size="feature" />
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-ivory/65">
-            Holistic Healing Grace — prayer, wellness, and compassionate care in Christ.
+            {ORGANIZATION_TAGLINE} — prayer, wellness, and compassionate care in Christ.
           </p>
         </div>
 
@@ -39,11 +40,33 @@ export function SiteFooter() {
                 Gallery
               </Link>
             </li>
+            <li>
+              <a
+                href="/CTNA-LICENSE.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-gold"
+              >
+                CTNA license (PDF)
+              </a>
+            </li>
           </ul>
         </div>
       </div>
-      <div className="border-t border-ivory/10 py-4 text-center text-xs text-ivory/50">
-        © {new Date().getFullYear()} {contact.legalName}
+      <div className="border-t border-ivory/10 px-4 py-4 text-center text-xs text-ivory/50">
+        <p>
+          © {new Date().getFullYear()} {contact.legalName}
+        </p>
+        <p className="mt-2">
+          <a
+            href="/CTNA-LICENSE.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-gold-light/90 underline-offset-2 hover:text-gold hover:underline"
+          >
+            View CTNA license document
+          </a>
+        </p>
       </div>
     </footer>
   );

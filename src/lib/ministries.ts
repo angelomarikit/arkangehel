@@ -14,6 +14,9 @@ const missionKeys = [
   'power-of-christ',
   'christmas',
   'templong',
+  'canada',
+  'blessing',
+  'ctna-center',
 ];
 
 const ministryKeys = ['herbal', 'kabataan', 'mediums'];

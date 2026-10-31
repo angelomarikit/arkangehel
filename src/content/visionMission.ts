@@ -1,4 +1,7 @@
-export const ORGANIZATION_TAGLINE = 'Holistic Healing Grace';
+export const ORGANIZATION_TAGLINE = 'Holistic Alternative Spiritual Healing Ministry';
+
+/** Hero eyebrow — full caps per brand */
+export const HERO_MINISTRY_LINE = 'HOLISTIC ALTERNATIVE SPIRITUAL HEALING MINISTRY';
 
 export const scriptures = [
   {

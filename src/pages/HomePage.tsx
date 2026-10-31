@@ -4,7 +4,8 @@ import { ChurchLogo } from '../components/ChurchLogo';
 import { CollectionCard } from '../components/CollectionCard';
 import { LazyImage } from '../components/LazyImage';
 import { SectionHeading } from '../components/SectionHeading';
-import { ORGANIZATION_TAGLINE } from '../content/visionMission';
+import { HERO_MINISTRY_LINE } from '../content/visionMission';
+import { SITE_NAME } from '../lib/brand';
 import { collections, pickHighlightPhotos, siteMeta } from '../lib/collections';
 
 const quickLinks = [
@@ -13,7 +14,7 @@ const quickLinks = [
   { to: '/missions', title: 'Missions', blurb: 'Mission trips, banner events, and liturgical seasons.' },
   { to: '/community', title: 'Community', blurb: 'Fellowship highlights from across our galleries.' },
   { to: '/gallery', title: 'Gallery', blurb: 'Full-screen viewing with every collection.' },
-  { to: '/contact', title: 'Contact', blurb: 'Connect with Centro Tinig ng Arkanghel.' },
+  { to: '/contact', title: 'Contact', blurb: 'Connect with Centro Tinig ng Arkanghel Inc.' },
 ];
 
 export function HomePage() {
@@ -56,19 +57,19 @@ export function HomePage() {
             <motion.p
               initial={{ opacity: 0, y: 12 }}
               animate={{ opacity: 1, y: 0 }}
-              className="text-gold-glow text-xs font-bold uppercase tracking-[0.3em] text-gold-light"
+              className="text-gold-glow max-w-2xl text-[1.24rem] font-bold uppercase leading-snug tracking-[0.1em] text-gold-light sm:text-2xl sm:tracking-[0.14em] md:text-[1.75rem]"
             >
-            {ORGANIZATION_TAGLINE}
-          </motion.p>
-          <motion.h1
+              {HERO_MINISTRY_LINE}
+            </motion.p>
+            <motion.h1
               initial={{ opacity: 0, y: 16 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.06 }}
-              className={`font-display mt-4 text-4xl font-semibold leading-[1.08] sm:text-5xl lg:text-6xl ${
+              className={`font-display mt-4 text-3xl font-semibold leading-[1.08] sm:text-5xl lg:text-6xl ${
                 hero ? 'text-ivory' : 'text-navy'
               }`}
             >
-              Centro Tinig ng Arkanghel
+              {SITE_NAME}
             </motion.h1>
             <motion.p
               initial={{ opacity: 0, y: 16 }}

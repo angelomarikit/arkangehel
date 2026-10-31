@@ -21,8 +21,6 @@ export function ChurchLogo({
   size = 'header',
 }: ChurchLogoProps) {
   const text = variant === 'light' ? 'text-ivory' : 'text-navy';
-  const sub = variant === 'light' ? 'text-gold' : 'text-royal';
-
   return (
     <div className={`flex items-center gap-3 sm:gap-4 ${className}`}>
       <img
@@ -31,9 +29,8 @@ export function ChurchLogo({
         className={`${logoHeights[size]} w-auto max-w-[min(220px,42vw)] object-contain object-left drop-shadow-sm`}
       />
       {showText && size === 'header' && (
-        <div className="leading-tight">
-          <p className={`font-display text-lg font-semibold tracking-wide ${text}`}>Centro Tinig</p>
-          <p className={`text-xs font-medium uppercase tracking-[0.2em] ${sub}`}>ng Arkanghel</p>
+        <div className="max-w-[11rem] leading-tight sm:max-w-none">
+          <p className={`font-display text-sm font-semibold tracking-wide sm:text-base ${text}`}>{SITE_NAME}</p>
         </div>
       )}
     </div>
