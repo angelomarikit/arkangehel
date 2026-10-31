@@ -40,32 +40,12 @@ export function SiteFooter() {
                 Gallery
               </Link>
             </li>
-            <li>
-              <a
-                href="/CTNA-LICENSE.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="hover:text-gold"
-              >
-                CTNA license (PDF)
-              </a>
-            </li>
           </ul>
         </div>
       </div>
       <div className="border-t border-ivory/10 px-4 py-4 text-center text-xs text-ivory/50">
         <p>
           © {new Date().getFullYear()} {contact.legalName}
-        </p>
-        <p className="mt-2">
-          <a
-            href="/CTNA-LICENSE.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold-light/90 underline-offset-2 hover:text-gold hover:underline"
-          >
-            View CTNA license document
-          </a>
         </p>
       </div>
     </footer>

@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { ChurchLogo } from '../components/ChurchLogo';
 import { CollectionCard } from '../components/CollectionCard';
 import { LazyImage } from '../components/LazyImage';
+import { RegistrationSection } from '../components/RegistrationSection';
 import { SectionHeading } from '../components/SectionHeading';
 import { HERO_MINISTRY_LINE } from '../content/visionMission';
 import { SITE_NAME } from '../lib/brand';
@@ -106,6 +107,8 @@ export function HomePage() {
           </div>
         </div>
       </section>
+
+      <RegistrationSection />
 
       <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 sm:py-20">
         <SectionHeading
