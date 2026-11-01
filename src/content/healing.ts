@@ -51,8 +51,7 @@ export const healingModalities: readonly HealingModality[] = [
   {
     n: 6,
     title: 'Spiritual Injection',
-    term: 'Energy Transfer',
-    description: 'The transfer of spiritual energy from one person to another.',
+    description: 'Transfer of energy from the banner to a person.',
   },
   {
     n: 7,
