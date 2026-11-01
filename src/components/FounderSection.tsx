@@ -25,7 +25,7 @@ export function FounderSection() {
             />
           </div>
           <figcaption className="mt-4 text-center lg:text-left">
-            <p className="font-display text-xl font-semibold text-navy">{founder.name}</p>
+            <p className="font-display text-xl font-semibold leading-snug text-navy sm:text-2xl">{founder.name}</p>
             <p className="mt-1 text-sm font-semibold uppercase tracking-wider text-gold-deep">
               {founder.role}
             </p>
