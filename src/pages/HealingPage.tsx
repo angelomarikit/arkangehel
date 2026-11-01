@@ -56,9 +56,6 @@ export function HealingPage() {
                   ) : null}
                 </h3>
                 <p className="mt-2 text-sm leading-relaxed text-navy/75">{item.description}</p>
-                {item.credit ? (
-                  <p className="mt-3 text-xs font-medium italic text-gold-deep/90">{item.credit}</p>
-                ) : null}
               </div>
             </li>
           ))}

@@ -13,7 +13,6 @@ export type HealingModality = {
   title: string;
   term?: string;
   description: string;
-  credit?: string;
 };
 
 export const healingModalities: readonly HealingModality[] = [
@@ -42,7 +41,6 @@ export const healingModalities: readonly HealingModality[] = [
     term: 'Suob ng Insenso at Kamangyan',
     description:
       'A religious practice using incense, kamangyan, and prayers for spiritual deliverance and protection from evil influences.',
-    credit: 'Ancelin Jabin A. Arcangel',
   },
   {
     n: 5,
@@ -76,7 +74,6 @@ export const healingModalities: readonly HealingModality[] = [
     term: 'Ayos Matris',
     description:
       "A traditional practice intended to address perceived uterine misalignment and promote women's well-being.",
-    credit: 'Ancelin Jabin A. Arcangel',
   },
   {
     n: 10,
@@ -97,7 +94,6 @@ export const healingModalities: readonly HealingModality[] = [
     term: 'Traditional Blood Cleansing Practice',
     description:
       'A traditional healing practice believed to remove impurities or unwanted blood and used by some practitioners for people experiencing allergies.',
-    credit: 'Ancelin Jabin A. Arcangel',
   },
   {
     n: 14,
