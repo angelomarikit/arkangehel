@@ -19,7 +19,7 @@ export function FounderSection() {
             <img
               src={founder.photoSrc}
               alt={founder.photoAlt}
-              className="aspect-[4/5] w-full object-cover object-top"
+              className="aspect-[3/4] w-full object-cover object-[center_15%]"
               loading="lazy"
               decoding="async"
             />

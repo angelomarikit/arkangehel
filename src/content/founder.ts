@@ -4,7 +4,7 @@ export const founder = {
   name: 'Ancelin Advincula Arcangel',
   role: 'Founder & Spiritual Ministry Leader',
   organization: SITE_NAME,
-  photoSrc: '/people/ancelin-advincula-arcangel.jpg',
+  photoSrc: '/people/ancelin-advincula-arcangel.png',
   photoAlt:
     'Portrait of Ancelin Advincula Arcangel, founder and spiritual ministry leader of Centro Tinig ng Arkanghel Inc.',
   paragraphs: [
